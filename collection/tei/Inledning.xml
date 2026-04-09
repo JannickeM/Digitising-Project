@@ -27,7 +27,8 @@
                <figDesc>
                    Avfotografering av inledningen till häftet, undertecknat SVENSKA FÖRENINGEN FÖR LJUSKULTUR
                </figDesc>
-               <graphic url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
+               <graphic xml:id="Inledning_thumb" url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
+               <graphic xml:id="Inledning_full" url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
             </figure>
        </surface>
       </facsimile> 
