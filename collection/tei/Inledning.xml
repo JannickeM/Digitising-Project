@@ -4,7 +4,7 @@
     <fileDesc>
         <titleStmt>
             <title>
-                Inledning till häftet "Det elektiska ljuset - på Stockholmsutställningen 1930"
+                Inledning till häftet "Det elektriska ljuset - på Stockholmsutställningen 1930"
             </title> 
         </titleStmt>
         <publicationStmt>
@@ -17,9 +17,22 @@
         </sourceDesc>
     </fileDesc>
 </teiHeader>
-    
+   <facsimile>
+       <surface xml:id="Inledning">
+           <figure>
+               <label>Det elektriska ljuset - på Stockholmsutställningen 1930</label>
+               <figDesc>
+                   Avfotografering av inledningen till häftet, undertecknat SVENSKA FÖRENINGEN FÖR LJUSKULTUR
+               </figDesc>
+               <graphic url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
+            </figure>
+       </surface>
+      </facsimile> 
     <text>
+        
         <body>
+            <div type="page" facs="#f21r">
+                
             <p>
             Stockholm - 1930				utst. -kat. 
             nr. 8						svenska
@@ -35,7 +48,7 @@
             Stockholm i december 1930.
             SVENSKA FÖRENINGEN FÖR LJUSKULTUR
             </p>
-            
+            </div>
         </body>
     </text>
 </TEI>
