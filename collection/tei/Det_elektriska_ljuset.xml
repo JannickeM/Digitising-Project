@@ -7,7 +7,7 @@
     <fileDesc>
         <titleStmt>
             <title>
-                "Det elektriska ljuset - på Stockholmsutställningen 1930"
+                Det elektriska ljuset - på Stockholmsutställningen 1930
             </title> 
         </titleStmt>
         <publicationStmt>
@@ -16,42 +16,172 @@
             </p>
         </publicationStmt>
         <sourceDesc>
-            <p>"Det elektiska ljuset - på Stockholmsutställningen 1930" från Svensk Form: volym 3</p>
+            <p>Häftet "Det elektiska ljuset - på Stockholmsutställningen 1930" från Svensk Form: volym 3</p>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
+    <facsimile>
+        <surface xml:id="Framsida"> 
+         <figure>
+             <label>Framsida till häftet</label>
+             <figDesc>
+                 placeholder text
+             </figDesc>
+             <graphic xml:id="Framsida_thumb" url="assets/img/documents/00_Framsida_beskuren_3004.jpg"/>
+             <graphic xml:id="Framsida_full" url="assets/img/documents/00_Framsida_beskuren_3004.jpg"/>    
+           </figure>
+        </surface>
+    </facsimile>
+  
+    <text>
+      <body>
+          <div type="page" facs="#Framsida">
+              <p>Handskrivet med blyerts: Stockholm-1930 nr 8 utst.- kat. svenska</p>
+           <p>DET ELEKTRISKA LJUSET</p>
+              <p>PÅ STOCKHOLMSUTSTÄLLNINGEN 1930</p>
+              
+              <p>Handskriven dedikation: Till Fil. d:r Gregor Paulsson vördsamt från Ivar Folcker</p>
+              <p>Stämplar:</p> <p>ARKIVEXEMPLAR</p> <p>SVENSKA SLÖJDFÖRENINGEN STOCKHOLM 7</p>
+          </div>
+      </body> 
+   </text>
+    
    <facsimile>
+      <surface xml:id="Insida_fram">
+        <figure>
+          <label>Insida_fram</label>
+           <figDesc>Insida med karta över utställningsområdet</figDesc>
+           <graphic xml:id="Insida_fram_thumb" url="assets/img/documents/000_Insida_fram_beskuren_3004.jpg"/>
+           <graphic xml:id="Insida_fram_full" url="assets/img/documents/000_Insida_fram_beskuren_3004.jpg"></graphic>
+         </figure>
+       </surface>
+   </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Insida_fram">
+                <p>PLAN ÖVER UTSTÄLLNINGEN</p>
+                <p>Den bruna linjen markerar en rundvandring på utställningsområdet vid vilken de å sidorna 3-21 återgivna bilderna äro tagna.
+                Cirklarna markera den punkt från vilken resp. bild är tagen, pilarna kamerans inriktning och siffran den sida i broschyren på vilken motsvarande bild återfinnes.</p>
+            </div>
+        </body>
+    </text>
+    
+    
+    <facsimile>
        <surface xml:id="Inledning">
            <figure>
-               <label>Det elektriska ljuset - på Stockholmsutställningen 1930</label>
+               <label>Inledning till häftet</label>
                <figDesc>
                    Avfotografering av inledningen till häftet, undertecknat SVENSKA FÖRENINGEN FÖR LJUSKULTUR
                </figDesc>
-               <graphic xml:id="Inledning_thumb" url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
-               <graphic xml:id="Inledning_full" url="assets/img/documents/3inledning_pro_redigerad.jpg"/>
+               <graphic xml:id="Inledning_thumb" url="assets/img/documents/01_Inledning_beskuren_3004.jpg"/>
+               <graphic xml:id="Inledning_full" url="assets/img/documents/01_Inledning_beskuren_3004.jpg"/>
             </figure>
        </surface>
       </facsimile> 
-    <text>
-        
+    
+    <text>  
         <body>
             <div type="page" facs="#Inledning">
                 
-            <p>
-            Stockholm - 1930				utst. -kat. 
-            nr. 8						svenska
             
-            Det elektriska ljuset bildade ett uppmärksammat inslag i Stockholmsutställningen 1930. Totalvy från Skansen. 
+                <p>Handskrivet med blyerts: Stockholm-1930 nr 8 utst.- kat. svenska</p>
             
-            Många högst beaktansvärda bidrag till belysningsteknikens utveckling leda sitt ursprung från på utställningar gjorda erfarenheter. Detta gäller speciellt i avseende på den tillämpade elektroljustekniken, vilken, på grund av sin allmänt erkända betydelse som publikattraherande medel under senare år på ett flertal utställningar ägnats mycket stor uppmärksamhet. Särskilt ha utställningarna i Barcelona i fjol och i Antwerpen under innevarande år rykte om sig att ha uppvisat storartade elektriska ljuseffekter. 
+                <p>Bildtext: Det elektriska ljuset bildade ett uppmärksammat inslag i Stockholmsutställningen 1930. Totalvy från Skansen.</p> 
             
-            Det samma torde även i viss mån kunna sägas om Stockholmsutställningen 1930. Även om här belysningsanordningarna i gemen präglades av större måttfullhet än i de båda förstnämnda fallen, representerade dock "den elektriska ramen" ett mycket uppmärksammat inslag av åtminstone för vårt land hittills tämligen okända dimensioner. Då dessutom en hel del nya belysningsprinciper, till stor del utexperimenterade av utställningens arkitekter och ingeniörer i samarbete med ledande elektriska firmor, kommit till användning har även Stockholmsutställningen 1930 för den av belysningsfrågor intresserade haft ett rikt studiematerial att bjuda på. 
+            <p>Många högst beaktansvärda bidrag till belysningsteknikens utveckling leda sitt ursprung från på utställningar gjorda erfarenheter. Detta gäller speciellt i avseende på den tillämpade elektroljustekniken, vilken, på grund av sin allmänt erkända betydelse som publikattraherande medel under senare år på ett flertal utställningar ägnats mycket stor uppmärksamhet. Särskilt ha utställningarna i Barcelona i fjol och i Antwerpen under innevarande år rykte om sig att ha uppvisat storartade elektriska ljuseffekter.</p> 
             
-            Av denna anledning ha vi trott det vara av ett visst värde att i denna broschyr sammanföra en del belysningsbilder från sommarens "funkisstad", kompletterade med vissa tekniska data och principskisser till ledning för dem, som ställas inför lösandet av liknande uppgifter. Samtidigt hoppas vi att bilderna, som självfallet endast ytterst ofullkomligt återge verkligheten, i någon mån skola bidraga till kännedomen om det elektriska ljusets stora anpassningsmöjligheter efter de mest skiftande förhållanden. 
+            <p>Det samma torde även i viss mån kunna sägas om Stockholmsutställningen 1930. Även om här belysningsanordningarna i gemen präglades av större måttfullhet än i de båda förstnämnda fallen, representerade dock "den elektriska ramen" ett mycket uppmärksammat inslag av åtminstone för vårt land hittills tämligen okända dimensioner. Då dessutom en hel del nya belysningsprinciper, till stor del utexperimenterade av utställningens arkitekter och ingeniörer i samarbete med ledande elektriska firmor, kommit till användning har även Stockholmsutställningen 1930 för den av belysningsfrågor intresserade haft ett rikt studiematerial att bjuda på.</p> 
             
-            Stockholm i december 1930.
-            SVENSKA FÖRENINGEN FÖR LJUSKULTUR
-            </p>
+            <p>Av denna anledning ha vi trott det vara av ett visst värde att i denna broschyr sammanföra en del belysningsbilder från sommarens "funkisstad", kompletterade med vissa tekniska data och principskisser till ledning för dem, som ställas inför lösandet av liknande uppgifter. Samtidigt hoppas vi att bilderna, som självfallet endast ytterst ofullkomligt återge verkligheten, i någon mån skola bidraga till kännedomen om det elektriska ljusets stora anpassningsmöjligheter efter de mest skiftande förhållanden.</p> 
+            
+                <p>Stockholm i december 1930.</p>
+                <p>SVENSKA FÖRENINGEN FÖR LJUSKULTUR</p>
+                <p>Tryckt namnteckning: Ivar Folcker</p>
+                <p>Stämplar:</p> <p>ARKIVEXEMPLAR</p> <p>FÖRENINGEN SVENSK FORM Biblioteket</p> <p>SVENSKA SLÖJDFÖRENINGEN Stockholm 7</p>
+            </div>
+        </body>
+    </text>
+   
+    <facsimile>
+        <surface xml:id="Upphovspersoner">
+            <figure>
+                <label>Upphovspersoner</label>
+                <figDesc>Sida 2 i broschyren</figDesc>
+                <graphic xml:id="Upphovspersoner_thumb" url="assets/img/documents/02_Upphovspersoner_beskuren_3004.jpg"></graphic>
+                <graphic xml:id="Upphovspersoner_full" url="assets/img/documents/02_Upphovspersoner_beskuren_3004.jpg"></graphic>
+            </figure> 
+        </surface>    
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Upphovspersoner">
+                
+            </div>
+        </body>
+    </text>
+    
+    <facsimile>
+        <surface xml:id="Huvudentren">
+            <figure>
+                <label>Huvudentren</label>
+                <figDesc>Sida 3 i broschyren</figDesc>
+                <graphic xml:id="Huvudentren_thumb" url="assets/img/documents/03_Huvudentren_beskuren_3004.jpg"></graphic>
+                <graphic xml:id="Huvudentren_full" url="assets/img/documents/03_Huvudentren_beskuren_3004.jpg"></graphic>
+            </figure> 
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Huvudentren">
+                <p>HUVUDENTRÉN</p> 
+                <p>13 st. fristående, 4-sidigt lysande pelare uppbära det svagt sluttande taket, längs vars kant en infälld, med opalöverfångsglas täckt ramp bildar en lysande linje. De 4 pelarna i väggen mot kommissariatet äro likaledes lysande, dock endast åt en sida. Pelarna ha en höjd av c:a 12 m och en sammanlagd längd av 175 m. Takrampen, som är utförd i enlighet med å sid. 13 visad principskiss, har en total längd av 132 m. Sammanlagd effekt för pelare och ramper c:a 55 kW.</p> 
+                    
+                    <p>Bildtext: Läng- och tvärsektion av pelare. Lamporna - 16 st. à 25 W. pr löpmeter - placerade diagonalt och i sick-sack, varigenom all skuggbildning av järnen bortelimineras. Sidorna av opalöverfångsglas, fäst vid de aluminiumbronserade vinkeljärnen medelst lister av rostfritt stål.</p>
+            </div>
+        </body>
+    </text>
+    
+    <facsimile>
+        <surface xml:id="Hallen_for_samfardsmedel">
+            <figure>
+                <label>Hallen för samfärdsmedel</label>
+            <figDesc>Sida 4 i broschyren</figDesc>  
+                <graphic xml:id="Hallen_for_samfardsmedel_thumb" url="assets/img/documents/04_Hallen_for_samfardsmedel_beskuren_3004.jpg"></graphic>
+                <graphic xml:id="Hallen_for_samfardsmedel_full" url="assets/img/documents/04_Hallen_for_samfardsmedel_beskuren_3004.jpg"></graphic>
+            </figure>
+        </surface>
+    </facsimile>
+
+    <text>
+        <body>
+            <div type="page" facs="#Hallen_for_samfardsmedel">
+                <p>HALLEN FÖR SAMFÄRDSMEDEL</p>
+                <p>invändigt belyst med 15 st. snedstrålande spegelreflektorer à 200 W., monterade på pelarna. I arkaden framtill 18 st. industrireflektorer med 75 W. lampor. Byggnadens konturer här liksom på övriga hallar markerade med lysande ramper. I båtdäverten samt på katapultens tak strålkastare för belysning av den mitt emot belägna "sunkgarden". Mitt på bilden synes "Socialdemokraternas" lysande glaspelare och i fonden t.v. huvudentrén. </p>
+            </div>
+        </body>
+    </text>
+    
+    <facsimile>
+        <surface xml:id="Pressens_paviljong">
+            <figure>
+                <label>Pressens paviljong</label>
+                <figDesc>sida 5 i broschyren</figDesc>
+                <graphic xml:id="Pressens_paviljong_thumb" url="assets/img/documents/05_Pressens_paviljong_beskuren_3004.jpg"></graphic>
+                <graphic xml:id= "Pressens_paviljong_full" url="assets/img/documents/05_Pressens_paviljong_beskuren_3004.jpg"></graphic>
+            </figure>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Pressens_paviljong">
+                <p>PRESSENS PAVILJONG</p>
+                <p>gav ett exempel på en med reflektorramp väl belyst väggyta. Rampen, c:a 4 1/2 m lång, innehöll 21 st. 25 W. standardlampor. På paviljongens tak voro 2 st. emaljreflektorer placerade, belysande Cloettaskylten, utförd av röda träbokstäver i blockstil.</p> 
+                <p> Bildtext: Rampen var medelst 4 st. rundjärn fäst på ett avstånd från väggen motsvarande 1/4 av dennas höjd, varigenom hela väggfältet syntes jämnt belyst. Plåtreflektorn hade givits sådan form, att lamporna fullständigt avskärmades för åskådaren.</p>   
             </div>
         </body>
     </text>
