@@ -30,60 +30,35 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Transkribering</a> 
                 </nav>
-                <main id="manuscript">
-                    <!-- bootstrap "container" class makes the columns look pretty -->
-                    <div class="container">
-                    <!-- define a row layout with bootstrap's css classes (two columns) -->
-                        <div class="row">
-                            <!-- first column: load the image based on the IIIF link in the graphic above -->
-                            <div class="col-sm">
-                                <article id="collection">
-                                    <xsl:for-each select="//tei:surface">
-                                        <img class="thumbnail">
-                                         <xsl:attribute name="src">
-                                             <xsl:value-of select="tei:figure/tei:graphic[2]/@url"/>
-                                         </xsl:attribute>
-                                         <xsl:attribute name="title">
-                                             <xsl:value-of select="tei:figure/tei:label"/>
-                                         </xsl:attribute>
-                                         <xsl:attribute name="alt">
-                                             <xsl:value-of select="tei:figure/tei:figDesc"/>
-                                         </xsl:attribute>
-                                     </img>                              
-                                    </xsl:for-each>
-                                </article>
-                            </div>
-                            <!-- second column: apply matching templates for anything nested underneath the tei:text element -->
-                            <div class="col-sm">
-                                <article id="description">
-                                  <p>
-                                    <strong>Description:</strong> &#160;
-                                    <xsl:apply-templates select="//tei:sourceDesc"/>
-                                  </p>
-                                </article>
-                            </div>
-                        </div>
-                        <div class="row">
-                                <div class="col-sm">
-                                    <article id="details">
-                                      <p>
-                                        <strong>Author:</strong><br/>
-                                        <xsl:apply-templates select="//tei:titleStmt/tei:author"/>
-                                      </p>
-                                      <p>
-                                        <strong>Transcription by:</strong><br/>
-                                        <xsl:apply-templates select="//tei:titleStmt/tei:principal"/>
-                                      </p>
-                                    </article>
-                                </div>
-                        </div>
-                    </div>
-                </main>
+                 <div class="container">
+      <h2> Hem </h2>
+      <div class="row">
+         <!--<div class="col-lg"> --> 
+            <article><img class="index-img" src="assets/img/documents/00_Framsida_beskuren_3004.jpg" alt="error">
+            </article>
+      </div>
+      <div class="row">
+         <div class="col-md">
+            <div class="index-text"> Digitaliseringsprojekt inom ramen för kursen "Digitalisering för bevarande och
+               tillgänglighet" (C3IDB1 B11V6 VT2026) som ges som en del av mastersprogrammet i Biblioteks- och
+               informationsvetenskap på Högskolan i Borås. <br /><br />
+               Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som
+               var en del av Stockholmsutställningen och framförallt utställningsområdet i Stockholm 1930. Materialet
+               ingår i volym 3 (utav 6?) av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
+               Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
+               Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
+               materialet och tillgängliggöra den via sin portal, "Digitala läsesalen"
+               (https://naringslivshistoria.se/om-digitala-lasesalen/). <br /><br />
+               Information om Stockholmsutställningen...
+               <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
+               Meijner, och Mariana Suikkanen Gomes, våren 2026.
+            </div> <!--more info about SF, CNH and the exhibit itself-->
+         </div>
+      </div>
+   </div>
                 <footer>
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
@@ -93,7 +68,7 @@
                   			</a>
                   		</div>
                   		<div class="copyright_text">
-                         2022 Wout Dillen.
+                         2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
                       </div>
                     </div>
                 </div>
