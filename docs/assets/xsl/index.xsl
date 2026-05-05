@@ -37,7 +37,7 @@
       <h2> Hem </h2>
       <div class="row">
          <!--<div class="col-lg"> --> 
-            <article><img class="index-img" src="assets/img/documents/00_Framsida_beskuren_3004.jpg" alt="error">
+            <article><img class="index-img" src="assets/img/documents/00_Framsida_beskuren_3004.jpg" alt="error"/>
             </article>
       </div>
       <div class="row">
