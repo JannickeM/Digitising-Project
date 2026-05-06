@@ -31,7 +31,8 @@
                 </header>
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
-                    <a href="diplomatic.html">Transkribering</a> 
+                    <a href="diplomatic.html">Transkribering</a> |
+                    <a href="galleri.html">Galleri</a>
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->

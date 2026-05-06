@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                          on your browsers tab-->
-                     DCHM Template: Home
+                     Det elektriska ljuset: Hem
                  </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -31,7 +31,8 @@
                 </header>
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
-                    <a href="diplomatic.html">Transkribering</a> 
+                    <a href="diplomatic.html">Transkribering</a> |
+                    <a href="galleri.html">Galleri</a>
                 </nav>
                 <div class="container">
                     <h2> Hem </h2>
