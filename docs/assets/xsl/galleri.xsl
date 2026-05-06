@@ -32,7 +32,7 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Transkribering</a> |
-                    <a href="reading.html">Galleri</a> 
+                    <a href="reading.html">Galleri</a> <!--should be galleri.html???-->
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
