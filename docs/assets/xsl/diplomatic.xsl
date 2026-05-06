@@ -80,6 +80,7 @@
                                                 <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
                                             </xsl:attribute>
                                         </img>
+                                        <div class="zoom-window"></div> <!--adding zoom to images-->
                                     </article>
                                 </div>
                                 <!-- fill the second column with our transcription -->
