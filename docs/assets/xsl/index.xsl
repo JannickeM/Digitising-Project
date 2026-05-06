@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:html="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xs tei html" version="2.0">
+                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:html="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xs tei html" version="2.0">
     <xsl:output method="html"/>
-
+    
     <!-- transform the root element (TEI) into an HTML template -->
     <xsl:template match="tei:TEI">
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text><xsl:text>&#xa;</xsl:text>
@@ -11,14 +11,14 @@
             <head>
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
-                    on your browsers tab-->
-                    DCHM Template: Home
-                </title>
+                         on your browsers tab-->
+                     DCHM Template: Home
+                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
-                    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-                    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-                    crossorigin="anonymous"/>
+                      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+                      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+                      crossorigin="anonymous"/>
                 <!-- load the stylesheets in the assets/css folder, where you can modify the styling of your website -->
                 <link rel="stylesheet" href="assets/css/main.css"/>
                 <link rel="stylesheet" href="assets/css/desktop.css"/>
@@ -33,45 +33,45 @@
                     <a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Transkribering</a> 
                 </nav>
-                 <div class="container">
-      <h2> Hem </h2>
-      <div class="row">
-         <!--<div class="col-lg"> --> 
-            <article><img class="index-img" src="assets/img/documents/00_Framsida_beskuren_3004.jpg" alt="error"/>
-            </article>
-      </div>
-      <div class="row">
-         <div class="col-md">
-            <div class="index-text"> Digitaliseringsprojekt inom ramen för kursen "Digitalisering för bevarande och
-               tillgänglighet" (C3IDB1 B11V6 VT2026) som ges som en del av mastersprogrammet i Biblioteks- och
-               informationsvetenskap på Högskolan i Borås. <br /><br />
-               Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som
-               var en del av Stockholmsutställningen och framförallt utställningsområdet i Stockholm 1930. Materialet
-               ingår i volym 3 (utav 6?) av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
-               Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
-               Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
-               materialet och tillgängliggöra den via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
-               . <br /><br />
-               Information om Stockholmsutställningen...
-               <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
-               Meijner, och Mariana Suikkanen Gomes, våren 2026.
-            </div> <!--more info about SF, CNH and the exhibit itself-->
-         </div>
-      </div>
-   </div>
-                <footer>
-                <div class="row" id="footer">
-                  <div class="col-sm copyright">
-                  		<div class="copyright_logos">
-                  			<a href="https://creativecommons.org/licenses/by/4.0/legalcode">
-                  			    <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
-                  			</a>
-                  		</div>
-                  		<div class="copyright_text">
-                         2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
-                      </div>
+                <div class="container">
+                    <h2> Hem </h2>
+                    <div class="row">
+                        <!--<div class="col-lg"> --> 
+                        <article><img class="index-img" src="assets/img/documents/00_Framsida_beskuren_3004.jpg" alt="error"/>
+                        </article>
+                    </div>
+                    <div class="row">
+                        <div class="col-md">
+                            <div class="index-text"> Digitaliseringsprojekt inom ramen för kursen "Digitalisering för bevarande och
+                                tillgänglighet" (C3IDB1 B11V6 VT2026) som ges som en del av mastersprogrammet i Biblioteks- och
+                                informationsvetenskap på Högskolan i Borås. <br /><br />
+                                Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som
+                                var en del av Stockholmsutställningen och framförallt utställningsområdet i Stockholm 1930. Materialet
+                                ingår i volym 3 (utav 6?) av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
+                                Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
+                                Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
+                                materialet och tillgängliggöra den via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
+                                . <br /><br />
+                                Information om Stockholmsutställningen...
+                                <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
+                                Meijner, och Mariana Suikkanen Gomes, våren 2026.
+                            </div> <!--more info about SF, CNH and the exhibit itself-->
+                        </div>
                     </div>
                 </div>
+                <footer>
+                    <div class="row" id="footer">
+                        <div class="col-sm copyright">
+                            <div class="copyright_logos">
+                                <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
+                                    <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
+                                </a>
+                            </div>
+                            <div class="copyright_text">
+                                2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
+                            </div>
+                        </div>
+                    </div>
                 </footer>
                 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
                 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
