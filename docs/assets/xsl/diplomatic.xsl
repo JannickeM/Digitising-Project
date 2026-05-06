@@ -30,10 +30,8 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="diplomatic.html">Transkribering</a> 
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -103,7 +101,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
                       </div>
                     </div>
                 </div>
