@@ -191,4 +191,23 @@
             </div>
         </body>
     </text>
+    
+    <facsimile>
+       <surface xml:id="Planetariet">
+           <figure>
+             <label>Planetariet</label>
+               <figDesc>>Sida 6 i broschyren</figDesc>
+               <graphic xml:id="Planetariet_thumb" url="assets/img/documents/06_Planetarietbeskuren_0505.jpg"></graphic>
+               <graphic xml:id="Planetariet_full" url="assets/img/documents/06_Planetarietbeskuren_0505.jpg"></graphic>
+           </figure>
+       </surface> 
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Planetariet">
+                <p></p>
+            </div>
+        </body>
+    </text>
 </TEI>
