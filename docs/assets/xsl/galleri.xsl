@@ -32,7 +32,7 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Transkribering</a> |
-                    <a href="reading.html">Galleri</a> 
+                    <a href="galleri.html">Galleri</a> <!--should be galleri.html???-->
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -43,7 +43,7 @@
                             <div class="col-sm">
                                 <article id="collection">
                                     <xsl:for-each select="//tei:surface">
-                                        <img class="thumbnail">
+                                        <img class="img-full">
                                             <xsl:attribute name="src">
                                                 <xsl:value-of select="tei:figure/tei:graphic[2]/@url"/>
                                             </xsl:attribute>
