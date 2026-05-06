@@ -50,8 +50,8 @@
                ingår i volym 3 (utav 6?) av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
                Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
                Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
-               materialet och tillgängliggöra den via sin portal, "Digitala läsesalen"
-               (https://naringslivshistoria.se/om-digitala-lasesalen/). <br /><br />
+               materialet och tillgängliggöra den via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
+               . <br /><br />
                Information om Stockholmsutställningen...
                <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
                Meijner, och Mariana Suikkanen Gomes, våren 2026.
