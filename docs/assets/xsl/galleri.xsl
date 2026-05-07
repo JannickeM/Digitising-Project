@@ -46,23 +46,23 @@
                             <!-- define a row layout with one column -->     
                             <div class="row">
                                 <!-- first column: load the image based on the IIIF link in the graphic above -->
-                                
-                                <article>
-                                    
-                                    <img class="img-full">
-                                        <xsl:attribute name="src">
-                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url"/>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="title">
-                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
-                                        </xsl:attribute>
-                                        <xsl:attribute name="alt">
-                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
-                                        </xsl:attribute>
-                                    </img>                              
-                                    
-                                </article>
-                                
+                                <div class="col-sm">
+                                    <article>
+                                        
+                                        <img class="img-full">
+                                            <xsl:attribute name="src">
+                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url"/>
+                                            </xsl:attribute>
+                                            <xsl:attribute name="title">
+                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
+                                            </xsl:attribute>
+                                            <xsl:attribute name="alt">
+                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
+                                            </xsl:attribute>
+                                        </img>                              
+                                        
+                                    </article>
+                                </div>
                             </div>
                         </xsl:for-each>
                     </div>
