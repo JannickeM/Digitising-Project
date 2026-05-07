@@ -235,4 +235,34 @@
         </body>
     </text>
     
+    <facsimile>
+        <surface>
+            <figure xml:id="Armaturhallen">
+                <label>Armaturhallen</label>
+                <figDesc>Sida 8 i broschyren</figDesc>
+                <graphic xml:id="Armaturhallen_thumb" url="assets/img/documents/08_Armaturhallen_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="Armaturhallen_full" url="assets/img/documents/08_Armaturhallen_beskuren_0505.jpg"></graphic>
+            </figure>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Armaturhallen">
+                <p>ARMATURHALLEN</p>
+                <p>innehöll en utställning av dekorativt betonad belysningsarmatur. Var och en av de 6 deltagande firmorna disponerade ett vertikalt fack av hallen, vars sektion framgår av nedanstående skiss. Firmaskyltarna över resp. fack utförda av glödlampsbokstäver med överfångsglas i olika färger, vitt, gult, grönt och rött.</p>
+                <p>Bildtext: Armaturen var inom varje firmafack arrangerad så som skissen visar. Varje armatur var således individuellt inkopplingsbar medelst strömbrytare. Vid hallarnas stängning kopplades armaturerna 1-4 till ett kontaktverk, som automatiskt ombesörjde inkoppling av resp. firmors armaturer, varefter samtliga grupper på en gång inkopplades.</p>
+            </div>
+        </body>
+    </text>
+    
+    <facsimile>
+        <surface>
+            <figure xml:id="Musikpaviljongen">
+                <label>Musikpaviljongen</label>
+                <figDesc>Sida 9 i broschyren</figDesc>
+                <graphic url="assets/img/documents/09_"></graphic>
+            </figure>
+        </surface>
+    </facsimile>
 </TEI>
