@@ -115,10 +115,16 @@
         </surface>    
     </facsimile>
     
+    
     <text>
         <body>
             <div type="page" facs="#Upphovspersoner">
-                
+                <p>Denna broschyr är sammanställd av civilingeniör Ivar</p> 
+                <p>Folcker i samarbete med ingeniör Gunnar Nilsson.</p> 
+                <p>Vissa detaljuppgifter ha välvilligt ställts till förfogande</p> 
+                <p>av Stockholms Elektricitetsverk, Allmänna Svenska El.</p> 
+                <p>A.-B., Svenska A.-B. Philips, Nomeco A.-B., Ingeniörs-</p>
+                <p>firman Teknik m. fl.</p> <p>Foto: Florman och Halldin, Atelier Berghne, Stockholm.</p>
             </div>
         </body>
     </text>
@@ -185,4 +191,48 @@
             </div>
         </body>
     </text>
+    
+    <facsimile>
+       <surface xml:id="Planetariet">
+           <figure>
+             <label>Planetariet</label>
+               <figDesc>>Sida 6 i broschyren</figDesc>
+               <graphic xml:id="Planetariet_thumb" url="assets/img/documents/06_Planetarietbeskuren_0505.jpg"></graphic>
+               <graphic xml:id="Planetariet_full" url="assets/img/documents/06_Planetarietbeskuren_0505.jpg"></graphic>
+           </figure>
+       </surface> 
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Planetariet">
+                <p>PLANETARIET</p>
+                <p>drog uppmärksamhet till sig dels genom sin silverglänsande kupol, belyst med strålkastare, placerade på närbelägna byggnader, dels genom sin ljusskylt i vitt ("Zeiss") och gult överfångsglas. På biljettkioskens tak angavs tiden för "Nästa förevisning" medelst en skylt av opalöverfångsglas med svart text och utbytbara siffror. Bilden visar även Stockholms-Tidningens ljusreklam i form av en strälkastarbelyst vägg samt skyltar i röd och blå neon.</p>
+                <p>Bildtext: Planetariets stjärnhimmel framställes medelst en apparat som med fullt fog kan betecknas som ett teknikens mästerverk, innehållande ej mindre än 119 små projektionsapparater, varmed planet- och stjärnbilder m.m. projiceras på kupolens insida. Planeternas rörelser framställas med hjälp av 7 st. elektriska motorer.</p>
+            </div>
+        </body>
+    </text>
+    
+    <facsimile>
+        <surface xml:id="Butikerna">
+            <figure>
+                <label>Planetariet</label>
+                <figDesc>Sida 7 i broschyren</figDesc>
+                <graphic xml:id="Butikerna_thumb" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
+            </figure>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="page" facs="#Butikerna">
+                <p>BUTIKERNA</p>
+                <p>i denna byggnad vid corson voro försedda med skyltar, bildande silhuett mot den belysta väggen. N.K:s skyltfönster belystes med lampor, monterade i taket längs glasrutornas överkant och på 3 sidor omgivna av opalöverfångsglas, och butiken belystes med i taket monterade volframrör av c:a 1 m längd. I "Konsums" butik var belysningen av fondväggen och de roterande montrerna ordnad med strålkastare, monterade på från väggen utgående armar.</p>
+                <p>Bildtext: Silhuettskyltarnas bokstäver voro medelst rundjärn monterade på ett avstånd av c:a 30 cm från väggen, vilken belystes medelst en utåt väl avskärmad ramp vid bokstävernas underkant.</p>
+                <p>Lampstorlek 25 W. inbördesavstånd c:a 20 cm, motsvarande en total effekt av c:a 7 kW.</p>
+            </div>
+        </body>
+    </text>
+    
 </TEI>

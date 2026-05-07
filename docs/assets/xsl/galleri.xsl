@@ -40,7 +40,7 @@
                         <!-- define a row layout with one column -->
                         <div class="row">
                             <!-- first column: load the image based on the IIIF link in the graphic above -->
-                            <div class="col-sm">
+                            
                                 <article id="collection">
                                     <xsl:for-each select="//tei:surface">
                                         <img class="img-full">
@@ -56,7 +56,7 @@
                                         </img>                              
                                     </xsl:for-each>
                                 </article>
-                            </div>
+                            
                         </div>
                     </div>
                 </main>
