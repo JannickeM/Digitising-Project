@@ -39,7 +39,7 @@
                     <div class="container">
                         
                         <!-- start a new 'row' for each page in the tei -->
-                        <xsl:for-each select="//tei:div[@type='page']">
+                        <xsl:for-each select="//tei:surface">
                             <!-- save the value of each page's @facs attribute in a variable, so we can use it later -->
                             <xsl:variable name="facs" select="@facs"/>
                             
