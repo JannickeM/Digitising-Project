@@ -267,5 +267,9 @@
         </surface>
     </facsimile>
     
-    
+    <text>
+        <body>
+            <div type="page" facs="#musikpaviljongens"></div>
+        </body>
+    </text>
 </TEI>
