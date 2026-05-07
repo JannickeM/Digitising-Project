@@ -37,27 +37,34 @@
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                        <!-- define a row layout with one column -->
-                        <div class="row">
-                            <!-- first column: load the image based on the IIIF link in the graphic above -->
+                        
+                        <!-- start a new 'row' for each page in the tei -->
+                        <xsl:for-each select="//tei:div[@type='page']">
+                            <!-- save the value of each page's @facs attribute in a variable, so we can use it later -->
+                            <xsl:variable name="facs" select="@facs"/>
                             
-                                <article id="collection">
-                                    <xsl:for-each select="//tei:surface">
-                                        <img class="img-full">
-                                            <xsl:attribute name="src">
-                                                <xsl:value-of select="tei:figure/tei:graphic[2]/@url"/>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="title">
-                                                <xsl:value-of select="tei:figure/tei:label"/>
-                                            </xsl:attribute>
-                                            <xsl:attribute name="alt">
-                                                <xsl:value-of select="tei:figure/tei:figDesc"/>
-                                            </xsl:attribute>
-                                        </img>                              
-                                    </xsl:for-each>
+                            <!-- define a row layout with one column -->     
+                            <div class="row">
+                                <!-- first column: load the image based on the IIIF link in the graphic above -->
+                                
+                                <article>
+                                    
+                                    <img class="img-full">
+                                        <xsl:attribute name="src">
+                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url"/>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="title">
+                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
+                                        </xsl:attribute>
+                                        <xsl:attribute name="alt">
+                                            <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
+                                        </xsl:attribute>
+                                    </img>                              
+                                    
                                 </article>
-                            
-                        </div>
+                                
+                            </div>
+                        </xsl:for-each>
                     </div>
                 </main>
                 <footer>
