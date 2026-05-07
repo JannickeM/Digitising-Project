@@ -258,11 +258,14 @@
     
     <facsimile>
         <surface>
-            <figure xml:id="Musikpaviljongen">
+            <figure xml:id="musikpaviljongens">
                 <label>Musikpaviljongen</label>
                 <figDesc>Sida 9 i broschyren</figDesc>
-                <graphic url="assets/img/documents/09_"></graphic>
+                <graphic xml:id="musikpaviljongens_thumb" url="assets/img/documents/09_musikpaviljongens_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="musikpaviljongens_full" url="assets//img/documents/09_musikpaviljongens_beskuren_0505.jpg"></graphic>
             </figure>
         </surface>
     </facsimile>
+    
+    
 </TEI>
