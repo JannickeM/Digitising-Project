@@ -216,7 +216,7 @@
     <facsimile>
         <surface xml:id="Butikerna">
             <figure>
-                <label>Planetariet</label>
+                <label>Butikerna</label>
                 <figDesc>Sida 7 i broschyren</figDesc>
                 <graphic xml:id="Butikerna_thumb" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
                 <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
