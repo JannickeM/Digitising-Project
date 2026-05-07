@@ -236,8 +236,8 @@
     </text>
     
     <facsimile>
-        <surface>
-            <figure xml:id="Armaturhallen">
+        <surface xml:id="Armaturhallen">
+            <figure>
                 <label>Armaturhallen</label>
                 <figDesc>Sida 8 i broschyren</figDesc>
                 <graphic xml:id="Armaturhallen_thumb" url="assets/img/documents/08_Armaturhallen_beskuren_0505.jpg"></graphic>
@@ -257,8 +257,8 @@
     </text>
     
     <facsimile>
-        <surface>
-            <figure xml:id="musikpaviljongens">
+        <surface xml:id="musikpaviljongens">
+            <figure>
                 <label>Musikpaviljongen</label>
                 <figDesc>Sida 9 i broschyren</figDesc>
                 <graphic xml:id="musikpaviljongens_thumb" url="assets/img/documents/09_musikpaviljongens_beskuren_0505.jpg"></graphic>
