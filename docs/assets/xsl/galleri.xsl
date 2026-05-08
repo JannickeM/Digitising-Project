@@ -46,7 +46,7 @@
                             <!-- define a row layout with one column -->     
                             <div class="row">
                                 <!-- first column: load the image based on the IIIF link in the graphic above -->
-                                <div class="col-lg">
+                                <div class="col-md">
                                     <article>
                                         
                                         <img class="img-full">
