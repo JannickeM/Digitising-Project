@@ -216,7 +216,7 @@
     <facsimile>
         <surface xml:id="Butikerna">
             <figure>
-                <label>Planetariet</label>
+                <label>Butikerna</label>
                 <figDesc>Sida 7 i broschyren</figDesc>
                 <graphic xml:id="Butikerna_thumb" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
                 <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
@@ -236,8 +236,8 @@
     </text>
     
     <facsimile>
-        <surface>
-            <figure xml:id="Armaturhallen">
+        <surface xml:id="Armaturhallen">
+            <figure>
                 <label>Armaturhallen</label>
                 <figDesc>Sida 8 i broschyren</figDesc>
                 <graphic xml:id="Armaturhallen_thumb" url="assets/img/documents/08_Armaturhallen_beskuren_0505.jpg"></graphic>
@@ -257,8 +257,8 @@
     </text>
     
     <facsimile>
-        <surface>
-            <figure xml:id="musikpaviljongens">
+        <surface xml:id="musikpaviljongens">
+            <figure>
                 <label>Musikpaviljongen</label>
                 <figDesc>Sida 9 i broschyren</figDesc>
                 <graphic xml:id="musikpaviljongens_thumb" url="assets/img/documents/09_musikpaviljongens_beskuren_0505.jpg"></graphic>
@@ -267,5 +267,14 @@
         </surface>
     </facsimile>
     
+    <text>
+        <body>
+            <div type="page" facs="#musikpaviljongens">
+                <p>MUSIKPAVILJONGENS</p>
+                <p>originella kontur var markerad i ljus genom ramper, övertäckta med opalöverfångsglas av i princip samma utförande som hallarnas takramper. Upptill i hörnet en lysande lyra, utförd på samma sätt. Belysningen av själva estraden erhölls medelst spegelreflektorer, placerade på de lodräta pelarna.</p>
+                <p>Bildtext: Gatuarmaturen som användes för belysning av Corson, strandpromenaderna m.m. var av Stockholms Elektricitetsverks modell med överdel av galvaniserat gjutjärn och stålplåt samt djup reflektor av opalöverfångsglas, som helt döljer lampan vid normal blickriktning. Dessa armaturer voro monterade på 5 1/2 m:s höjd över marken i spänn om 3 à 4 st. mellan trästolpar eller, där så kunde ske, flaggstänger och träd. Inbördesavståndet mellan armaturerna = 3,5 m, lampstorleken i de flesta 150 W. Allt som allt voro c:a 350 st. armaturer av denna typ installerade på utställningsområdet, motsvarande en effekt av omkr. 52 kW.</p>    
+            </div>
+        </body>
+    </text>
     
 </TEI>
