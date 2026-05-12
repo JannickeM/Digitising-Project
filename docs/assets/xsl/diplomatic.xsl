@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Diplomatic View
+                    Det elektriska ljuset - transkribering
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -32,7 +32,7 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Transkribering</a> |
-                    <a href="galleri.html">Galleri</a>
+                    <a href="galleri_zoom.html">Galleri</a>
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -40,12 +40,12 @@
                     <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
                             <div class="col-sm">
-                                <h3>Images</h3>
+                                <h3>Bilder</h3>
                             </div>
                             <div class="col-sm">
                             </div>
                             <div class="col-sm">
-                                <h3>Transcription</h3>
+                                <h3>Transkribering</h3>
                             </div>
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->

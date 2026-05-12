@@ -32,7 +32,7 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="diplomatic.html">Transkribering</a> |
-                    <a href="galleri.html">Galleri</a>
+                    <a href="galleri_zoom.html">Galleri</a>
                 </nav>
                 <div class="container">
                     <h2> Hem </h2>
@@ -48,15 +48,22 @@
                                 informationsvetenskap på Högskolan i Borås. <br /><br />
                                 Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som
                                 var en del av Stockholmsutställningen och framförallt utställningsområdet i Stockholm 1930. Materialet
-                                ingår i volym 3 (utav 6?) av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
+                                ingår i volym 3 av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
                                 Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
                                 Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
                                 materialet och tillgängliggöra den via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
                                 . <br /><br />
-                                Information om Stockholmsutställningen...
+                                Stockholmsutställningen 1930 hölls i Stockholm år 1930 och var en
+                                arkitektur-, formgivning- och konsthantverk-utställning. 
+                                Den räknades som genombrottet för funktionalismen och modernism i Sverige och var även viktig utomlands.
+                                Utställningen gav också möjlighet för den svenska belysningsbranschen att visa upp senaste utvecklingar inom tekniken samt design.
+                                Exempelvis var det startskottet för neonskyltning i Sverige. Belysningen speciellt under natten var en viktig del av utställningsupplevelsen och väckte mycket uppmärksamhet.
+                                Civilingenjören som arbetade med belysning, Ivar Folcker, anses vara en av pionjärerna inom ljusarkitektur i Sverige.
+                                Häftet som digitaliserats innehåller en handskriven dedikering ifrån honom till Stockholmsutställnings Generalkommisarie, Gregor Paulsson.
+                                
                                 <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
                                 Meijner, och Mariana Suikkanen Gomes, våren 2026.
-                            </div> <!--more info about SF, CNH and the exhibit itself-->
+                            </div> 
                         </div>
                     </div>
                 </div>
