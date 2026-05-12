@@ -82,6 +82,23 @@ footer {
     width: 50%;
 }
 
+.galleri-img { /*for the gallery images being centered*/
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.zoom-target {
+    width: 100%; /* Makes images fill their container */
+    height: auto; /* Maintains aspect ratio */
+    display: block;
+}
+
 .zoom-window { /*code for zooming in on images*/
     display: none;
     position: absolute;
