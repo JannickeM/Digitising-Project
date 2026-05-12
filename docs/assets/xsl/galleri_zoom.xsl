@@ -48,7 +48,7 @@
                             <!-- define a row layout with one column -->
                             <div class="row">
                                 <!-- first column: load the image based on the IIIF link in the graphic above -->
-                                <div class="col-md-6 offset-md-3">
+                                <div class="col-md-10 offset-md-1">
                                     <article>
                                         <div class="image-container">
                                         <img class="zoom-target">
