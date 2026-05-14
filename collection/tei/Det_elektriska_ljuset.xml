@@ -12,18 +12,22 @@
         </titleStmt>
         <publicationStmt>
             <p>
-             Digitaliserat för Svensk Form av studenter vid Högskolan i Borås   
+             Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026   
             </p>
         </publicationStmt>
         <sourceDesc>
-            <p>Häftet "Det elektriska ljuset - på Stockholmsutställningen 1930" från Svensk Form: volym 3</p>
+            <p>Broschyren "Det elektriska ljuset - på Stockholmsutställningen 1930" från Svensk Form: volym F3D:3</p>
+            <p>Broschyren sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson</p>
+            <p>Fotografier tagna av Florman och Halldin, Atelier Berghne, Stockholm</p>
+            <p>Tryckt av Kurt Lindberg Boktryckeri AB, Stockholm</p>
+            <p>Utgiven av Svenska föreningen för ljuskultur, Stockholm</p>
         </sourceDesc>
     </fileDesc>
 </teiHeader>
     <facsimile>
         <surface xml:id="Framsida"> 
          <figure>
-             <label>Framsida till häftet</label>
+             <label>Framsida till broschyren</label>
              <figDesc>
                  placeholder text
              </figDesc>
@@ -60,6 +64,7 @@
     <text>
         <body>
             <div type="page" facs="#Insida_fram">
+                <p>Handskrivet med blyerts, övre vänstra hörnet: F3D:3 [Arkivbeteckning för den volym hos Centrum för Näringslivshistoria som broscyren ingår i]</p>
                 <p>PLAN ÖVER UTSTÄLLNINGEN</p>
                 <p>Den bruna linjen markerar en rundvandring på utställningsområdet vid vilken de å sidorna 3-21 återgivna bilderna äro tagna.
                 Cirklarna markera den punkt från vilken resp. bild är tagen, pilarna kamerans inriktning och siffran den sida i broschyren på vilken motsvarande bild återfinnes.</p>
@@ -71,9 +76,9 @@
     <facsimile>
        <surface xml:id="Inledning">
            <figure>
-               <label>Inledning till häftet</label>
+               <label>Inledning till broschyren</label>
                <figDesc>
-                   Avfotografering av inledningen till häftet, undertecknat SVENSKA FÖRENINGEN FÖR LJUSKULTUR
+                   Avfotografering av inledningen till broschyren, undertecknat SVENSKA FÖRENINGEN FÖR LJUSKULTUR
                </figDesc>
                <graphic xml:id="Inledning_thumb" url="assets/img/documents/01_Inledning_beskuren_3004.jpg"/>
                <graphic xml:id="Inledning_full" url="assets/img/documents/01_Inledning_beskuren_3004.jpg"/>
@@ -112,12 +117,9 @@
     <text>
         <body>
             <div type="page" facs="#Upphovspersoner">
-                <p>Denna broschyr är sammanställd av civilingeniör Ivar</p> 
-                <p>Folcker i samarbete med ingeniör Gunnar Nilsson.</p> 
-                <p>Vissa detaljuppgifter ha välvilligt ställts till förfogande</p> 
-                <p>av Stockholms Elektricitetsverk, Allmänna Svenska El.</p> 
-                <p>A.-B., Svenska A.-B. Philips, Nomeco A.-B., Ingeniörs-</p>
-                <p>firman Teknik m. fl.</p> <p>Foto: Florman och Halldin, Atelier Berghne, Stockholm.</p>
+                <p>Denna broschyr är sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson.</p> 
+                <p>Vissa detaljuppgifter ha välvilligt ställts till förfogande av Stockholms Elektricitetsverk, Allmänna Svenska El. A.-B., Svenska A.-B. Philips, Nomeco A.-B., Ingeniörsfirman Teknik m. fl.</p>
+                <p>Foto: Florman och Halldin, Atelier Berghne, Stockholm.</p>
             </div>
         </body>
     </text>
