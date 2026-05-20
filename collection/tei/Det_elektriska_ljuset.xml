@@ -213,8 +213,8 @@
             <figure>
                 <label>Butikerna</label>
                 <figDesc>Sida 7 i broschyren</figDesc>
-                <graphic xml:id="Butikerna_thumb" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
-                <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="Butikerna_thumb" url="assets/img/documents/07_Butikerna_NY.jpg"></graphic>
+                <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_NY.jpg"></graphic>
             </figure>
         </surface>
     </facsimile>
@@ -301,8 +301,8 @@
             <figure>
                 <label>Svenska Dagbladets terass</label>
                 <figDesc>Sida 11 i broschyren</figDesc>
-                <graphic xml:id="svenskadagbladets_thumb" url="assets/img/documents/11_svenskadagbladets_beskuren_0505.jpg"></graphic>
-                <graphic xml:id="svenskadagbladets_full" url="assets/img/documents/11_svenskadagbladets_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="svenskadagbladets_thumb" url="assets/img/documents/11_Svenska_Dagbladet_NY.jpg"></graphic>
+                <graphic xml:id="svenskadagbladets_full" url="assets/img/documents/11_Svenska_Dagbladet_NY.jpg"></graphic>
             </figure>
          </surface>
     </facsimile>
@@ -343,8 +343,8 @@
             <figure>
                 <label>Utställningshallarna</label>
                 <figDesc>Sida 13 i broschyren</figDesc>
-                <graphic xml:id="utstallningshallarnas_thumb" url="assets/img/documents/13_utstallningshallarnas_beskuren_0505.jpg"></graphic>
-                <graphic xml:id="utstallningshallarnas_full" url="assets/img/documents/13_utstallningshallarnas_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="utstallningshallarnas_thumb" url="assets/img/documents/13_Utstallningshallarnas_NY.jpg"></graphic>
+                <graphic xml:id="utstallningshallarnas_full" url="assets/img/documents/13_Utstallningshallarnas_NY.jpg"></graphic>
             </figure>
         </surface>
     </facsimile>
@@ -466,8 +466,8 @@
             <figure>
                 <label>På södra sidan</label>
                 <figDesc>Sida 19 i broschyren</figDesc>
-                <graphic xml:id="Pa_sodra-sidan_thumb" url="assets/img/documents/19_Pa_sodra_sidan_beskuren_0505.jpg"></graphic>
-                <graphic xml:id="Pa_sodra_sidan_full" url="assets/img/documents/19_Pa_sodra_sidan_beskuren_0505.jpg"></graphic>
+                <graphic xml:id="Pa_sodra-sidan_thumb" url="assets/img/documents/19_Pa_sodra_sidan_NY.jpg"></graphic>
+                <graphic xml:id="Pa_sodra_sidan_full" url="assets/img/documents/19_Pa_sodra_sidan_NY.jpg"></graphic>
             </figure>
         </surface>
     </facsimile>
