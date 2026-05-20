@@ -32,7 +32,7 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Hem</a> | <a href="diplomatic.html"
+                    <a href="index.html">Hem</a> | <a href="transkribering.html"
                         >Transkribering</a> | <a href="galleri_zoom.html">Galleri</a>
                    
                 </nav>

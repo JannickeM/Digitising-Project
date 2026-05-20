@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Top Layer
+                    Det elektriska ljuset - transkribering
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,21 +30,22 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="transkribering.html">Transkribering</a> |
+                    <a href="galleri_zoom.html">Galleri</a>
                 </nav>
-                <main>
+                <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                        <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
+                    <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
-                            <div class="col-">
-                                <h3>Images</h3>
+                            <div class="col-sm">
+                                <h3>Bilder</h3>
                             </div>
-                            <div class="col-md">
-                                <h3>Transcription</h3>
+                            <div class="col-sm">
+                            </div>
+                            <div class="col-sm">
+                                <h3>Transkribering</h3>
                             </div>
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
@@ -53,10 +54,10 @@
                             <xsl:variable name="facs" select="@facs"/>
                             <div class="row">
                                 <!-- fill the first column with this page's image -->
-                                <div class="col-">
+                                <div class="col-sm">
                                     <article>
-                                        <!-- make an HTML <img> element, with a maximum width of 100 pixels -->
-                                        <img class="thumbnail">
+                                        <!-- make an HTML <img> element, with a maximum width of 400 pixels -->
+                                        <img class="img-full">
                                             <!-- give this HTML <img> attribute three more attributes:
                                                     @src to locate the image file
                                                     @title for a mouse-over effect
@@ -71,7 +72,7 @@
                                                         we want to disregard the hashtag in the @facs attribute-->
                                             
                                             <xsl:attribute name="src">
-                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[2]/@url"/>
+                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[1]/@url"/>
                                             </xsl:attribute>
                                             <xsl:attribute name="title">
                                                 <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
@@ -80,28 +81,29 @@
                                                 <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:figDesc"/>
                                             </xsl:attribute>
                                         </img>
+                                        <div class="zoom-window"></div> <!--adding zoom to images-->
                                     </article>
                                 </div>
                                 <!-- fill the second column with our transcription -->
-                                <div class='col-md'>
+                                <div class='col-sm'>
                                     <article class="transcription">
-                                        <xsl:apply-templates/>                                      
+                                            <xsl:apply-templates/>                                      
                                     </article>
                                 </div>
                             </div>
                         </xsl:for-each>
-                    </div>
+                        </div>
                 </main>
                 <footer>
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
                       <div>
                         <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
-                            <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
+                          <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                         2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
                       </div>
                     </div>
                 </div>
@@ -119,6 +121,14 @@
     html-->
     <xsl:template match="tei:teiHeader"/>
 
+    <!-- turn tei linebreaks (lb) into html linebreaks (br) -->
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
+    <!-- not: in the previous template there is no <xsl:apply-templates/>. This is because there is nothing to
+    process underneath (nested in) tei lb's. Therefore the XSLT processor does not need to look for templates to
+    apply to the nodes nested within it.-->
+
     <!-- we turn the tei head element (headline) into an html h1 element-->
     <xsl:template match="tei:head">
         <h2>
@@ -134,11 +144,18 @@
         </p>
     </xsl:template>
 
-    <!-- do not show del in toplayer transcription-->
+    <!-- transform tei del into html del -->
     <xsl:template match="tei:del">
-        <span style="display:none">
+        <del>
             <xsl:apply-templates/>
-        </span>
+        </del>
+    </xsl:template>
+
+    <!-- transform tei add into html sup -->
+    <xsl:template match="tei:add">
+        <sup>
+            <xsl:apply-templates/>
+        </sup>
     </xsl:template>
 
     <!-- transform tei hi (highlighting) with the attribute @rend="u" into html u elements -->
