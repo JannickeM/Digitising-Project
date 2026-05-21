@@ -43,26 +43,12 @@
                     </div>
                     <div class="row">
                         <div class="col-md">
-                            <div class="index-text"> Digitaliseringsprojekt inom ramen för kursen "Digitalisering för bevarande och
-                                tillgänglighet" (C3IDB1 B11V6 VT2026) som ges som en del av mastersprogrammet i Biblioteks- och
-                                informationsvetenskap på Högskolan i Borås. <br /><br />
-                                Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som
-                                var en del av Stockholmsutställningen och framförallt utställningsområdet i Stockholm 1930. Materialet
-                                ingår i volym 3 av arkiverat material från utställningen som arkiverats och förvaltas av Svensk
-                                Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för
-                                Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala
-                                materialet och tillgängliggöra den via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
+                            <div class="index-text"> Digitaliseringsprojekt inom ramen för kursen "Digitalisering för bevarande och tillgänglighet" (C3IDB1 B11V6 VT2026) som ges som en del av masterprogrammet i Biblioteks- och informationsvetenskap på Högskolan i Borås. <br /><br />
+                                Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och de ljusinstallationer som var en del av Stockholmsutställningen och utställningsområdet i Stockholm 1930. Materialet ingår i volym 3 av arkiverat material från utställningen, som arkiverats och förvaltas av Svensk Form (dåvarande Svenska Slöjdföreningen). Digitaliseringsprojektet är ett samarbete med Centrum för Näringslivshistoria, som bidrar till hållbarheten av materialet genom att arkivera det digitala materialet och tillgängliggöra det via sin portal, <a href="https://naringslivshistoria.se/om-digitala-lasesalen/">"Digitala läsesalen"</a> 
                                 . <br /><br />
-                                Stockholmsutställningen 1930 hölls i Stockholm år 1930 och var en
-                                arkitektur-, formgivning- och konsthantverk-utställning. 
-                                Den räknades som genombrottet för funktionalismen och modernism i Sverige och var även viktig utomlands.
-                                Utställningen gav också möjlighet för den svenska belysningsbranschen att visa upp senaste utvecklingar inom tekniken samt design.
-                                Exempelvis var det startskottet för neonskyltning i Sverige. Belysningen speciellt under natten var en viktig del av utställningsupplevelsen och väckte mycket uppmärksamhet.
-                                Civilingenjören som arbetade med belysning, Ivar Folcker, anses vara en av pionjärerna inom ljusarkitektur i Sverige.
-                                Häftet som digitaliserats innehåller en handskriven dedikering ifrån honom till Stockholmsutställnings Generalkommisarie, Gregor Paulsson.
+                                Stockholmsutställningen 1930 var en nationell utställning för arkitektur, formgivning och konsthantverk. Den kom att räknas som genombrottet för funktionalismen och modernismen i Sverige, och var en stor publiksuccé. Utställningen gav möjlighet för den svenska belysningsbranschen att visa upp den senaste utvecklingen inom teknik och design, vilket exempelvis innebar ett genombrott  för neonskyltning i Sverige. Belysningen, speciellt nattetid, var en viktig del av utställningsupplevelsen och väckte mycket uppmärksamhet. Civilingenjören som arbetade med belysningen, Ivar Folcker, anses vara en av pionjärerna inom ljusarkitektur i Sverige. Broschyren som digitaliserats innehåller en handskriven dedikation från Folcker till Stockholmsutställningens generalkommisarie, Gregor Paulsson.
                                 
-                                <br /><br /> Projektet har utförts av tre studenter som går programmet, Natalie Isaksson, Jannicke
-                                Meijner, och Mariana Suikkanen Gomes, våren 2026.
+                                <br /><br /> Projektet har utförts av tre studenter från masterprogrammet i Biblioteks- och informationsvetenskap, Natalie Isaksson, Jannicke Meijner, och Mariana Suikkanen Gomes, våren 2026. 
                             </div> 
                         </div>
                     </div>
