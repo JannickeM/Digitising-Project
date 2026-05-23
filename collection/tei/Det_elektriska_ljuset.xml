@@ -16,7 +16,7 @@
             </p>
         </publicationStmt>
         <sourceDesc>
-            <p>Broschyren "Det elektriska ljuset - på Stockholmsutställningen 1930" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
+            <p>Broschyren "Det elektriska ljuset på Stockholmsutställningen 1930" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
             <p>Broschyren sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson</p>
             <p>Fotografier tagna av Florman och Halldin, Atelier Berghne, Stockholm</p>
             <p>Tryckt av Kurt Lindberg Boktryckeri AB, Stockholm</p>
@@ -640,7 +640,7 @@
         <surface xml:id="Reklammasten">
             <figure>
                 <label>23. Reklammasten</label>
-                <figDesc>Sida 23 i brosdchyren</figDesc>
+                <figDesc>Sida 23 i broschyren</figDesc>
                 <graphic xml:id="Reklammasten_thumb" url="assets/img/documents/23_Reklammasten_beskuren_0505.jpg"></graphic>
                 <graphic xml:id="Reklammasten_full" url="assets/img/documents/23_Reklammasten_beskuren_0505.jpg"></graphic>
             </figure>
