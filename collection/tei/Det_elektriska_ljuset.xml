@@ -7,8 +7,16 @@
     <fileDesc>
         <titleStmt>
             <title>
-                Det elektriska ljuset på Stockholmsutställningen 1930
+                Det elektriska ljuset på Stockholmsutställningen 1930: Digitisat
             </title> 
+            <author ref="http://viaf.org/viaf/272878184">Folcker, Ivar (1893-1982)</author>
+            <author>Nilsson, Gunnar (medarbetare, ospecificerad)</author>
+            <principal>Mariana Suikkanen Gomes</principal>
+            <principal>Natalie Isaksson</principal>
+            <principal>Jannicke Meijner</principal>
+            
+            <respStmt></respStmt>
+            
         </titleStmt>
         <publicationStmt>
             <p>
@@ -16,13 +24,37 @@
             </p>
         </publicationStmt>
         <sourceDesc>
-            <p>Broschyren "Det elektriska ljuset på Stockholmsutställningen 1930" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
+            <bibl>Folcker, Ivar och Nilsson, Gunnar (1930). Det elektriska ljuset på Stockholmsutställningen 1930. [Svenska föreningen för ljuskultur].</bibl>
+            <p>Broschyren "" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
             <p>Broschyren sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson</p>
             <p>Fotografier tagna av Florman och Halldin, Atelier Berghne, Stockholm</p>
             <p>Tryckt av Kurt Lindberg Boktryckeri AB, Stockholm</p>
             <p>Utgiven av Svenska föreningen för ljuskultur, Stockholm</p>
         </sourceDesc>
     </fileDesc>
+    
+    <encodingDesc>
+       <projectDesc>
+           <p>Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
+       </projectDesc> 
+    </encodingDesc>
+    
+    <profileDesc>
+        
+    </profileDesc>
+    
+    <xenoData>
+        
+    </xenoData>
+    
+    <revisionDesc>
+     <list>
+       <desc>
+           
+       </desc>
+    </list>        
+    </revisionDesc>
+    
 </teiHeader>
     <facsimile>
         <surface xml:id="Framsida"> 
