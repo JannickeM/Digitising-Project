@@ -42,11 +42,11 @@
     <profileDesc>
         
     </profileDesc>
-    
-    <xenoData>
         
-    </xenoData>
-    
+        <!--bildmetadata kommer behöva en ny xenoData för varje bild-->
+    <xenoData url="collection/metadata/000_metadata.xml" ana="Insida_fram"/> <!--check that the url is correct!-->
+        
+        
     <revisionDesc>
      <list>
        <desc>
