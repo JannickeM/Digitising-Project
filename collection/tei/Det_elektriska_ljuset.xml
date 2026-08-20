@@ -15,7 +15,10 @@
             <principal>Natalie Isaksson</principal>
             <principal>Jannicke Meijner</principal>
             
-            <respStmt></respStmt>
+            <respStmt>
+                <resp>Arkivbildare</resp>
+                <name>Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</name>
+            </respStmt>
             
         </titleStmt>
         <publicationStmt>
@@ -23,39 +26,51 @@
              Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026   
             </p>
         </publicationStmt>
+       
         <sourceDesc>
-            <bibl>Folcker, Ivar och Nilsson, Gunnar (1930). Det elektriska ljuset på Stockholmsutställningen 1930. [Svenska föreningen för ljuskultur].</bibl>
-            <p>Broschyren "" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
-            <p>Broschyren sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson</p>
-            <p>Fotografier tagna av Florman och Halldin, Atelier Berghne, Stockholm</p>
-            <p>Tryckt av Kurt Lindberg Boktryckeri AB, Stockholm</p>
-            <p>Utgiven av Svenska föreningen för ljuskultur, Stockholm</p>
-        </sourceDesc>
-    </fileDesc>
+            <biblStruct>
+                <monogr>
+                    <idno sameAs="http://libris.kb.se/resource/bib/2647349"></idno>
+                    <title>Det elektriska ljuset på Stockholmsutställningen 1930</title>
+                    <author ref="http://viaf.org/viaf/272878184">Ivar Folcker (1893-1982)</author>
+                    <author>Gunnar Nilsson</author>
+                    <respStmt>
+                        <resp>Tryckt av</resp>
+                        <orgName>Kurt Lindberg Boktryckeri AB<placeName>Stockholm</placeName></orgName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Fotografier tagna av</resp>
+                        <orgName>Florman och Halldin, Atelier Berghne<placeName>Stockholm</placeName></orgName>
+                     </respStmt>
+                    <imprint>
+                        <publisher>Svenska föreningen för ljuskultur</publisher>
+                        <pubPlace>Stockholm</pubPlace>
+                        <date>1930</date>
+                    </imprint>
+                    <extent>24 sidor brödtext, med svartvita fotografier på de allra flesta uppslagen, inom ett flerfärgat pappomslag med kartbilder över utställningsområdet på insida fram och insida bak (alltså 28 sidor inklusive omslag).
+                    <dimensions><dim>21 x 30 centimeter</dim></dimensions>
+                    </extent>
+                 </monogr>
+              </biblStruct>
+           </sourceDesc>
+        </fileDesc>
     
     <encodingDesc>
        <projectDesc>
-           <p>Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
+           <p>Digitiserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
        </projectDesc> 
     </encodingDesc>
     
     <profileDesc>
-        
+     
     </profileDesc>
         
-        <!--bildmetadata kommer behöva en ny xenoData för varje bild-->
-    <xenoData url="collection/metadata/000_metadata.xml" ana="Insida_fram"/> <!--check that the url is correct!-->
-        
-        
-    <revisionDesc>
-     <list>
-       <desc>
-           
-       </desc>
-    </list>        
-    </revisionDesc>
+    <xenoData></xenoData>
+
     
 </teiHeader>
+    
+    
     <facsimile>
         <surface xml:id="Framsida"> 
          <figure>
