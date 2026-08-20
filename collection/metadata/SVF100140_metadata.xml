@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='C:/Users/isaks/OneDrive/Desktop/Bibblan/Digitalisering/SVF100140.pdf'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.59'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:PDF='http://ns.exiftool.org/PDF/PDF/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-pdfaid='http://ns.exiftool.org/XMP/XMP-pdfaid/1.0/'>
+ <ExifTool:ExifToolVersion>13.59</ExifTool:ExifToolVersion>
+ <System:FileName>SVF100140.pdf</System:FileName>
+ <System:Directory>C:/Users/isaks/OneDrive/Desktop/Bibblan/Digitalisering</System:Directory>
+ <System:FileSize>31 MB</System:FileSize>
+ <System:FileModifyDate>2026:08:20 12:31:56+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2026:08:20 12:31:57+02:00</System:FileAccessDate>
+ <System:FileCreateDate>2026:08:18 12:38:32+02:00</System:FileCreateDate>
+ <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
+ <File:FileType>PDF</File:FileType>
+ <File:FileTypeExtension>pdf</File:FileTypeExtension>
+ <File:MIMEType>application/pdf</File:MIMEType>
+ <PDF:PDFVersion>1.7</PDF:PDFVersion>
+ <PDF:Linearized>No</PDF:Linearized>
+ <PDF:PDFVersion>1.7</PDF:PDFVersion>
+ <PDF:PageCount>28</PDF:PageCount>
+ <XMP-x:XMPToolkit>Image::ExifTool 13.59</XMP-x:XMPToolkit>
+ <XMP-dc:Contributor>Gunnar Nilsson</XMP-dc:Contributor>
+ <XMP-dc:Coverage>Stockholm</XMP-dc:Coverage>
+ <XMP-dc:Creator>https://libris.kb.se/b8nrwndv3p7x1dr</XMP-dc:Creator>
+ <XMP-dc:Date>1930</XMP-dc:Date>
+ <XMP-dc:Description>Materialet som digitaliserats är ett häfte som handlar om det elektriska ljuset och ljusinställningar som var en del av Stockholmsutställningen i Stockholm 1930.</XMP-dc:Description>
+ <XMP-dc:Format>application/pdf</XMP-dc:Format>
+ <XMP-dc:Identifier>SVF100140</XMP-dc:Identifier>
+ <XMP-dc:Language>sv</XMP-dc:Language>
+ <XMP-dc:Publisher>Svensk Form</XMP-dc:Publisher>
+ <XMP-dc:Relation>F3D, Stockholmsutställningen 1930 volym 3</XMP-dc:Relation>
+ <XMP-dc:Rights>Digitisatet är sammanställd av Mariana Suikkanen Gomes i samarbete med Jannicke Meijner och Natalie Isaksson genom Högskolan i Borås och arkiveras av Centrum för Näringslivshistoria, Bromma. Originalet arkiveras hos Föreningen Svensk Form.</XMP-dc:Rights>
+ <XMP-dc:Source>https://libris.kb.se/m4xlw0fz2kmnd6b#it</XMP-dc:Source>
+ <XMP-dc:Subject>https://id.kb.se/term/sao/Ljusteknik</XMP-dc:Subject>
+ <XMP-dc:Title>Det elektriska ljuset på Stockholmsutställningen 1930 - digitisatet</XMP-dc:Title>
+ <XMP-dc:Type>Text</XMP-dc:Type>
+ <XMP-pdfaid:Conformance>B</XMP-pdfaid:Conformance>
+ <XMP-pdfaid:Part>2</XMP-pdfaid:Part>
+</rdf:Description>
+</rdf:RDF>
