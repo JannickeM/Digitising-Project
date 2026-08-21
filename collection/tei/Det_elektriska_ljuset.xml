@@ -9,30 +9,116 @@
             <title>
                 Det elektriska ljuset på Stockholmsutställningen 1930: Digitisat
             </title> 
-            <author ref="http://viaf.org/viaf/272878184">Folcker, Ivar (1893-1982)</author>
-            <author>Nilsson, Gunnar (medarbetare, ospecificerad)</author>
-            <principal>Mariana Suikkanen Gomes</principal>
-            <principal>Natalie Isaksson</principal>
-            <principal>Jannicke Meijner</principal>
+            <author><persName ref="https://libris.kb.se/b8nrwndv3p7x1dr"><forename>Ivar</forename><surname>Folcker</surname></persName></author>
+            <author><persName><forename>Gunnar</forename><surname>Nilsson</surname></author>
+            <principal>
+                    <persName><forename>Mariana</forename> <surname>Suikkanen Gomes</surname></persName>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                        <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
+                    </principal>
             
-            <respStmt></respStmt>
-            
+            <respStmt>
+                    <resp>Digitalisering</resp>
+                        <persName><forename>Mariana</forename> <surname>Suikkanen Gomes</surname></persName>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+
+                    </respStmt>
+            <respStmt>
+                        <resp>Transkriberad av</resp>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                        <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
+                    </respStmt>
+            <respStmt>
+                        <resp>Korrekturläst av</resp>
+                        <persName><forename>Mariana</forename> <surname>Suikkanen Gomes</surname></persName>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                        <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
+                    </respStmt>
+            <respStmt>
+                        <resp>Kodad av</resp>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                        <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
+                    </respStmt>
+            <respStmt>
+                        <resp>Kodning validerad av</resp>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                    </respStmt>
+                    
         </titleStmt>
         <publicationStmt>
-            <p>
-             Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026   
-            </p>
+                    <authority> <!-- we can be the authorities for this version maybe, otherwise we should put Svensk Form or CfN -->
+                        <!-- suggested code for that:
+                        <orgName>Svensk Form</orgName>
+                        -->
+                        <persName><forename>Mariana</forename> <surname>Suikkanen Gomes</surname></persName>
+                        <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
+                        <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
+                    </authority>
+                    <distributor> <!-- otherwise its CfN, have to decide here whether this is the metadata for the work published on the website which I have treated it as, the PDF/A document is a separate thing -->
+                        <orgName type= "educational">Högskolan i Borås</orgName>
+                    </distributor>
+                    <address>
+                        <addrLine>Allégatan 1</addrLine>
+                        <addrLine>503 32 Borås</addrLine>
+                        <addrLine>Sverige</addrLine>
+                    </address>
+                    <availability>
+                        <licence> <!-- funderar på denna men är lite osäker på om vi har rätt till att använda en CC licens överhuvudtaget: https://creativecommons.org/licenses/by-nc-nd/4.0/ -->
+                            <p>Original broschyren gavs ut 1930 av Svensk Form (f.d. Svenska Slöjdföreningen). 
+                                Den sammanställdes av Ivar Folcker och Gunnar Nilsson, med fotografier tagna av Florman och Halldin, Atelje Berghne, Stockholm och tryckt av Kurt Lindberg Boktryckeri AB, Stockholm.
+                                Digitisatet är framställd av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026.
+                                Digitisatet i form av PDF/A dokument arkiveras och tillgängliggörs av Centrum för Näringslivshistoria, Bromma åt Svensk Form.
+                            </p>
+                        </licence>
+                    </availability>
         </publicationStmt>
         <sourceDesc>
-            <bibl>Folcker, Ivar och Nilsson, Gunnar (1930). Det elektriska ljuset på Stockholmsutställningen 1930. [Svenska föreningen för ljuskultur].</bibl>
-            <p>Broschyren "" från Svensk Form. Arkiveras av Centrum för näringlivshistoria, volym F3D:3</p>
-            <p>Broschyren sammanställd av civilingeniör Ivar Folcker i samarbete med ingeniör Gunnar Nilsson</p>
-            <p>Fotografier tagna av Florman och Halldin, Atelier Berghne, Stockholm</p>
-            <p>Tryckt av Kurt Lindberg Boktryckeri AB, Stockholm</p>
-            <p>Utgiven av Svenska föreningen för ljuskultur, Stockholm</p>
+                    <biblStruct type = "brochure">
+                        <monogr>
+                            <author><persName ref="https://libris.kb.se/b8nrwndv3p7x1dr"><forename>Ivar</forename><surname>Folcker</surname></persName></author>
+                            <author><persName><forename>Gunnar</forename><surname>Nilsson</surname></author>
+                            <title> Det elektriska ljuset på Stockholmsutställningen 1930 </title>    
+                                <imprint>
+                                    <publisher>Svenska Slöjdföreningen</publisher>
+                                    <pubPlace>Stockholm</pubPlace>
+                                    <date when="1930">1930</date>
+                                </imprint>
+                                <extent>24 sidor</extent>
+                            </monogr>
+                    </biblStruct>
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Sverige</country>
+                                <settlement>Stockholm</settlement>
+                                <repository>Svensk Form</repository>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc form="brochure">
+                                    <supportDesc >
+                                        <support>
+                                            <p><material>Papper</material> Två stämplar på omslaget, den ena "Arkivexemplar" den andra "Svenska Slöjdföreningen Stockholm 7"</p>
+                                        </support>
+                                        <extent> 24 sidor
+                                            <dimensions scope="all" type="leaf" unit="cm">                              
+                                                <height unit="cm">21</height>
+                                                <width unit ="cm">30</width>
+                                            </dimensions>
+                                        </extent>
+                                        <condition> <!-- kolla att du håller med min bedömning av fysiska objektet -->
+                                            <p>Omslaget gulnande och bindningen i använd skick.
+                                                Broschyren är hel och upplevs vara aningen skör. </p>
+                                        </condition>
+                                    </supportDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <history>
+                                <p> Broschyren Det elektriska ljuset på Stockholmsutställningen 1930 gavs ut i samband av Stockholmsutällningen 1930 som ägde rum mellan 16 maj och 29 september 1930, huvudsakligen på Djurgårdsbrunnsviken i Stockholm.                                  Svensk Läraretidnings förlag utgav tidsskriften Jultomten årligen mellan 1891-1935.                     
+                                </p>
+                            </history>
+                        </msDesc>    
         </sourceDesc>
     </fileDesc>
-    
+    <!--såhär långt kom jag idag 21/08/2026 NI-->
     <encodingDesc>
        <projectDesc>
            <p>Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
