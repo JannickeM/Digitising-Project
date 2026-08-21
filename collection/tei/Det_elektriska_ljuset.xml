@@ -72,76 +72,51 @@
                         </licence>
                     </availability>
         </publicationStmt>
+       
         <sourceDesc>
-                    <biblStruct type = "brochure">
-                        <monogr>
-                            <author><persName ref="https://libris.kb.se/b8nrwndv3p7x1dr"><forename>Ivar</forename><surname>Folcker</surname></persName></author>
-                            <author><persName><forename>Gunnar</forename><surname>Nilsson</surname></author>
-                            <title> Det elektriska ljuset på Stockholmsutställningen 1930 </title>    
-                                <imprint>
-                                    <publisher>Svenska Slöjdföreningen</publisher>
-                                    <pubPlace>Stockholm</pubPlace>
-                                    <date when="1930">1930</date>
-                                </imprint>
-                                <extent>24 sidor</extent>
-                            </monogr>
-                    </biblStruct>
-                        <msDesc>
-                            <msIdentifier>
-                                <country>Sverige</country>
-                                <settlement>Stockholm</settlement>
-                                <repository>Svensk Form</repository>
-                            </msIdentifier>
-                            <physDesc>
-                                <objectDesc form="brochure">
-                                    <supportDesc >
-                                        <support>
-                                            <p><material>Papper</material> Två stämplar på omslaget, den ena "Arkivexemplar" den andra "Svenska Slöjdföreningen Stockholm 7"</p>
-                                        </support>
-                                        <extent> 24 sidor
-                                            <dimensions scope="all" type="leaf" unit="cm">                              
-                                                <height unit="cm">21</height>
-                                                <width unit ="cm">30</width>
-                                            </dimensions>
-                                        </extent>
-                                        <condition> <!-- kolla att du håller med min bedömning av fysiska objektet -->
-                                            <p>Omslaget gulnande och bindningen i använd skick.
-                                                Broschyren är hel och upplevs vara aningen skör. </p>
-                                        </condition>
-                                    </supportDesc>
-                                </objectDesc>
-                            </physDesc>
-                            <history>
-                                <p> Broschyren Det elektriska ljuset på Stockholmsutställningen 1930 gavs ut i samband av Stockholmsutällningen 1930 som ägde rum mellan 16 maj och 29 september 1930, huvudsakligen på Djurgårdsbrunnsviken i Stockholm.                                  Svensk Läraretidnings förlag utgav tidsskriften Jultomten årligen mellan 1891-1935.                     
-                                </p>
-                            </history>
-                        </msDesc>    
-        </sourceDesc>
-    </fileDesc>
-    <!--såhär långt kom jag idag 21/08/2026 NI-->
+            <biblStruct>
+                <monogr>
+                    <idno sameAs="http://libris.kb.se/resource/bib/2647349"></idno>
+                    <title>Det elektriska ljuset på Stockholmsutställningen 1930</title>
+                    <author ref="http://viaf.org/viaf/272878184">Ivar Folcker (1893-1982)</author>
+                    <author>Gunnar Nilsson</author>
+                    <respStmt>
+                        <resp>Tryckt av</resp>
+                        <orgName>Kurt Lindberg Boktryckeri AB<placeName>Stockholm</placeName></orgName>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Fotografier tagna av</resp>
+                        <orgName>Florman och Halldin, Atelier Berghne<placeName>Stockholm</placeName></orgName>
+                     </respStmt>
+                    <imprint>
+                        <publisher>Svenska föreningen för ljuskultur</publisher>
+                        <pubPlace>Stockholm</pubPlace>
+                        <date>1930</date>
+                    </imprint>
+                    <extent>24 sidor brödtext, med svartvita fotografier på de allra flesta uppslagen, inom ett flerfärgat pappomslag med kartbilder över utställningsområdet på insida fram och insida bak (alltså 28 sidor inklusive omslag).
+                    <dimensions><dim>21 x 30 centimeter</dim></dimensions>
+                    </extent>
+                 </monogr>
+              </biblStruct>
+           </sourceDesc>
+        </fileDesc>
+    
     <encodingDesc>
        <projectDesc>
-           <p>Digitaliserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
+           <p>Digitiserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
        </projectDesc> 
     </encodingDesc>
     
     <profileDesc>
-        
+     
     </profileDesc>
         
-        <!--bildmetadata kommer behöva en ny xenoData för varje bild-->
-    <xenoData url="collection/metadata/000_metadata.xml" ana="Insida_fram"/> <!--check that the url is correct!-->
-        
-        
-    <revisionDesc>
-     <list>
-       <desc>
-           
-       </desc>
-    </list>        
-    </revisionDesc>
+    <xenoData></xenoData>
+
     
 </teiHeader>
+    
+    
     <facsimile>
         <surface xml:id="Framsida"> 
          <figure>
