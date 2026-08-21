@@ -2,7 +2,8 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xlmns:xi="http://w3.org"> <!-- för att få xml metadata till bilderna inbäddade, osäker! -->
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -122,7 +123,11 @@
      
     </profileDesc>
         
-    <xenoData></xenoData>
+    <xenoData>
+        <!-- funkar detta kod?
+        <xi:include href="collection/metadata/000_metadata.xml"/>    -->    
+             <!-- notera en rad per bild metadata fil! -->
+        </xenoData>
 
     
 </teiHeader>
