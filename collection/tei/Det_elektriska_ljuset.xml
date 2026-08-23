@@ -2,7 +2,8 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xlmns:xi="http://w3.org"> <!-- för att få xml metadata till bilderna inbäddade, osäker! -->
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -16,7 +17,6 @@
                         <persName><forename>Jannicke</forename> <surname>Meijner</surname></persName>
                         <persName><forename>Natalie</forename> <surname>Isaksson</surname></persName>
                     </principal>
-            
             <respStmt>
                     <resp>Digitalisering</resp>
                         <persName><forename>Mariana</forename> <surname>Suikkanen Gomes</surname></persName>
@@ -100,18 +100,34 @@
               </biblStruct>
            </sourceDesc>
         </fileDesc>
-    
     <encodingDesc>
        <projectDesc>
-           <p>Digitiserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026</p>
+           <p>Digitiserat för Svensk Form (f.d. Svenska Slöjdföreningen) av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026. 
+            Digitisering skedde inom ramen av ett digitaliseringsprojekt i kursen "Digitalisering för bevarande och tillgänglighet" kurskod C3IDB1.
+            Syftet med projektet är att digitalisera kulturarvsmaterial för bevarande och tillgänglighet.</p>
        </projectDesc> 
+        <editorialDecl>
+                    <normalization>
+                        <p>Texten har transkriberats som det återges i orginalkällan</p>
+                    </normalization>
+                    <correction>
+                        <p>Ingen rättning eller modernisering av texten har genomförts</p>
+                    </correction>
+                    <segmentation>
+                        <!-- ska vi ha med mer om hur rader, indrag, sidor, etc har markerats? -->
+                    </segmentation>
+                </editorialDecl>
     </encodingDesc>
     
     <profileDesc>
      
     </profileDesc>
         
-    <xenoData></xenoData>
+    <xenoData>
+        <!-- funkar detta kod?
+        <xi:include href="collection/metadata/000_metadata.xml"/>    -->    
+             <!-- notera en rad per bild metadata fil! -->
+        </xenoData>
 
     
 </teiHeader>
