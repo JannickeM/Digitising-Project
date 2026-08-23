@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='bilder/07_Butikerna_NY.jpg'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 13.59'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:GPS='http://ns.exiftool.org/EXIF/GPS/1.0/'
+  xmlns:IFD1='http://ns.exiftool.org/EXIF/IFD1/1.0/'
+  xmlns:IPTC='http://ns.exiftool.org/IPTC/IPTC/1.0/'
+  xmlns:Photoshop='http://ns.exiftool.org/Photoshop/Photoshop/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-dc='http://ns.exiftool.org/XMP/XMP-dc/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-xmpMM='http://ns.exiftool.org/XMP/XMP-xmpMM/1.0/'
+  xmlns:XMP-crs='http://ns.exiftool.org/XMP/XMP-crs/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Adobe='http://ns.exiftool.org/APP14/Adobe/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>13.59</ExifTool:ExifToolVersion>
+ <System:FileName>07_Butikerna_NY.jpg</System:FileName>
+ <System:Directory>bilder</System:Directory>
+ <System:FileSize>1172 kB</System:FileSize>
+ <System:FileModifyDate>2026:08:17 16:24:04+02:00</System:FileModifyDate>
+ <System:FileAccessDate>2026:08:21 20:22:45+02:00</System:FileAccessDate>
+ <System:FileCreateDate>2026:08:21 15:55:09+02:00</System:FileCreateDate>
+ <System:FilePermissions>-rw-rw-rw-</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Little-endian (Intel, II)</File:ExifByteOrder>
+ <File:CurrentIPTCDigest>53fc2cab1c5f7f3c5769bf5707813656</File:CurrentIPTCDigest>
+ <File:ImageWidth>3571</File:ImageWidth>
+ <File:ImageHeight>2544</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:4:4 (1 1)</File:YCbCrSubSampling>
+ <IFD0:Make>OnePlus</IFD0:Make>
+ <IFD0:Model>OnePlus 11 5G</IFD0:Model>
+ <IFD0:Orientation>Horizontal (normal)</IFD0:Orientation>
+ <IFD0:XResolution>300</IFD0:XResolution>
+ <IFD0:YResolution>300</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>Adobe Photoshop 27.5 (Macintosh)</IFD0:Software>
+ <IFD0:ModifyDate>2026:05:16 17:08:20</IFD0:ModifyDate>
+ <ExifIFD:ExposureTime>1/45</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>1.8</ExifIFD:FNumber>
+ <ExifIFD:ISO>200</ExifIFD:ISO>
+ <ExifIFD:ExifVersion>0231</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2026:04:16 14:09:12</ExifIFD:DateTimeOriginal>
+ <ExifIFD:OffsetTimeOriginal>+02:00</ExifIFD:OffsetTimeOriginal>
+ <ExifIFD:ShutterSpeedValue>1/45</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>1.8</ExifIFD:ApertureValue>
+ <ExifIFD:FocalLength>5.6 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubSecTimeOriginal>928</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>3571</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>2544</ExifIFD:ExifImageHeight>
+ <GPS:GPSVersionID>2.3.0.0</GPS:GPSVersionID>
+ <GPS:GPSLatitudeRef>North</GPS:GPSLatitudeRef>
+ <GPS:GPSLatitude>59 deg 20&#39; 22.83&quot;</GPS:GPSLatitude>
+ <GPS:GPSLongitudeRef>East</GPS:GPSLongitudeRef>
+ <GPS:GPSLongitude>17 deg 58&#39; 28.86&quot;</GPS:GPSLongitude>
+ <GPS:GPSTimeStamp>12:07:16</GPS:GPSTimeStamp>
+ <GPS:GPSDateStamp>2026:04:16</GPS:GPSDateStamp>
+ <IFD1:Compression>JPEG (old-style)</IFD1:Compression>
+ <IFD1:XResolution>72</IFD1:XResolution>
+ <IFD1:YResolution>72</IFD1:YResolution>
+ <IFD1:ResolutionUnit>inches</IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>742</IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>4229</IFD1:ThumbnailLength>
+ <IFD1:ThumbnailImage>(Binary data 4229 bytes, use -b option to extract)</IFD1:ThumbnailImage>
+ <IPTC:CodedCharacterSet>UTF8</IPTC:CodedCharacterSet>
+ <IPTC:ApplicationRecordVersion>0</IPTC:ApplicationRecordVersion>
+ <IPTC:DateCreated>2026:04:16</IPTC:DateCreated>
+ <IPTC:TimeCreated>14:09:12+02:00</IPTC:TimeCreated>
+ <Photoshop:IPTCDigest>53fc2cab1c5f7f3c5769bf5707813656</Photoshop:IPTCDigest>
+ <Photoshop:XResolution>300</Photoshop:XResolution>
+ <Photoshop:DisplayedUnitsX>inches</Photoshop:DisplayedUnitsX>
+ <Photoshop:YResolution>300</Photoshop:YResolution>
+ <Photoshop:DisplayedUnitsY>inches</Photoshop:DisplayedUnitsY>
+ <Photoshop:PrintStyle>Centered</Photoshop:PrintStyle>
+ <Photoshop:PrintPosition>0 0</Photoshop:PrintPosition>
+ <Photoshop:PrintScale>1</Photoshop:PrintScale>
+ <Photoshop:GlobalAngle>30</Photoshop:GlobalAngle>
+ <Photoshop:GlobalAltitude>30</Photoshop:GlobalAltitude>
+ <Photoshop:URL_List>
+  <rdf:Bag>
+  </rdf:Bag>
+ </Photoshop:URL_List>
+ <Photoshop:SlicesGroupName>Butikerna_RAW</Photoshop:SlicesGroupName>
+ <Photoshop:NumSlices>1</Photoshop:NumSlices>
+ <Photoshop:PixelAspectRatio>1</Photoshop:PixelAspectRatio>
+ <Photoshop:PhotoshopThumbnail>(Binary data 4229 bytes, use -b option to extract)</Photoshop:PhotoshopThumbnail>
+ <Photoshop:HasRealMergedData>Yes</Photoshop:HasRealMergedData>
+ <Photoshop:WriterName>Adobe Photoshop</Photoshop:WriterName>
+ <Photoshop:ReaderName>Adobe Photoshop 2026</Photoshop:ReaderName>
+ <Photoshop:PhotoshopQuality>8</Photoshop:PhotoshopQuality>
+ <Photoshop:PhotoshopFormat>Standard</Photoshop:PhotoshopFormat>
+ <XMP-x:XMPToolkit>Image::ExifTool 13.59</XMP-x:XMPToolkit>
+ <XMP-dc:Creator>Mariana Suikkanen Gomes</XMP-dc:Creator>
+ <XMP-dc:Format>image/jpeg</XMP-dc:Format>
+ <XMP-dc:Language>sv</XMP-dc:Language>
+ <XMP-dc:Rights>Digitisatet är sammanställt av Mariana Suikkanen Gomes i samarbete med Jannicke Meijner och Natalie Isaksson genom Högskolan i Borås och arkiveras av Centrum för Näringslivshistoria, Bromma</XMP-dc:Rights>
+ <XMP-dc:Source>https://libris.kb.se/m4xlw0fz2kmnd6b#it</XMP-dc:Source>
+ <XMP-dc:Subject>https://id.kb.se/term/sao/Ljusteknik</XMP-dc:Subject>
+ <XMP-dc:Title>Butikerna</XMP-dc:Title>
+ <XMP-dc:Type>Text</XMP-dc:Type>
+ <XMP-photoshop:ColorMode>RGB</XMP-photoshop:ColorMode>
+ <XMP-photoshop:DateCreated>2026:04:16 14:09:12.928+02:00</XMP-photoshop:DateCreated>
+ <XMP-photoshop:ICCProfileName>Display P3</XMP-photoshop:ICCProfileName>
+ <XMP-xmp:CreateDate>2026:04:16 14:09:12.928</XMP-xmp:CreateDate>
+ <XMP-xmp:CreatorTool>OnePlus/CPH2449EEA/OP594DL1:16/TP1A.220905.001/T.R4T3.182acf7_a305ff_a30602:user/release-keys</XMP-xmp:CreatorTool>
+ <XMP-xmp:MetadataDate>2026:05:16 17:08:20+02:00</XMP-xmp:MetadataDate>
+ <XMP-xmp:ModifyDate>2026:05:16 17:08:20+02:00</XMP-xmp:ModifyDate>
+ <XMP-xmpMM:DerivedFromDocumentID>xmp.did:352eb417-2460-4e36-b5a4-3660213023cd</XMP-xmpMM:DerivedFromDocumentID>
+ <XMP-xmpMM:DerivedFromInstanceID>xmp.iid:52de557c-1f24-4fb5-a946-d95e877bbaf0</XMP-xmpMM:DerivedFromInstanceID>
+ <XMP-xmpMM:DerivedFromOriginalDocumentID>7C73070717BFB016A74833F3ADFE32FC</XMP-xmpMM:DerivedFromOriginalDocumentID>
+ <XMP-xmpMM:DocumentID>adobe:docid:photoshop:2f98d839-644c-a246-bcdf-80104def66f5</XMP-xmpMM:DocumentID>
+ <XMP-xmpMM:HistoryAction>
+  <rdf:Bag>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>saved</rdf:li>
+   <rdf:li>converted</rdf:li>
+   <rdf:li>derived</rdf:li>
+   <rdf:li>saved</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryAction>
+ <XMP-xmpMM:HistoryParameters>
+  <rdf:Bag>
+   <rdf:li>converted from image/dng to image/tiff</rdf:li>
+   <rdf:li>from image/tiff to image/jpeg</rdf:li>
+   <rdf:li>converted from image/tiff to image/jpeg</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryParameters>
+ <XMP-xmpMM:HistoryChanged>
+  <rdf:Bag>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+   <rdf:li>/</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryChanged>
+ <XMP-xmpMM:HistoryInstanceID>
+  <rdf:Bag>
+   <rdf:li>xmp.iid:352eb417-2460-4e36-b5a4-3660213023cd</rdf:li>
+   <rdf:li>xmp.iid:52de557c-1f24-4fb5-a946-d95e877bbaf0</rdf:li>
+   <rdf:li>xmp.iid:9f8d2809-350e-4b18-9c1f-cf807d019e32</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryInstanceID>
+ <XMP-xmpMM:HistorySoftwareAgent>
+  <rdf:Bag>
+   <rdf:li>Adobe Photoshop Camera Raw 18.2.2 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 27.5 (Macintosh)</rdf:li>
+   <rdf:li>Adobe Photoshop 27.5 (Macintosh)</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistorySoftwareAgent>
+ <XMP-xmpMM:HistoryWhen>
+  <rdf:Bag>
+   <rdf:li>2026:05:16 16:56:42+02:00</rdf:li>
+   <rdf:li>2026:05:16 17:08:20+02:00</rdf:li>
+   <rdf:li>2026:05:16 17:08:20+02:00</rdf:li>
+  </rdf:Bag>
+ </XMP-xmpMM:HistoryWhen>
+ <XMP-xmpMM:InstanceID>xmp.iid:9f8d2809-350e-4b18-9c1f-cf807d019e32</XMP-xmpMM:InstanceID>
+ <XMP-xmpMM:OriginalDocumentID>7C73070717BFB016A74833F3ADFE32FC</XMP-xmpMM:OriginalDocumentID>
+ <XMP-crs:AlreadyApplied>True</XMP-crs:AlreadyApplied>
+ <XMP-crs:AutoLateralCA>0</XMP-crs:AutoLateralCA>
+ <XMP-crs:Blacks2012>0</XMP-crs:Blacks2012>
+ <XMP-crs:BlueHue>0</XMP-crs:BlueHue>
+ <XMP-crs:BlueSaturation>0</XMP-crs:BlueSaturation>
+ <XMP-crs:CameraProfile>Embedded</XMP-crs:CameraProfile>
+ <XMP-crs:CameraProfileDigest>6D33C8F0F1FE3A21F2F87D02D06CB171</XMP-crs:CameraProfileDigest>
+ <XMP-crs:Clarity2012>0</XMP-crs:Clarity2012>
+ <XMP-crs:ColorGradeBlending>50</XMP-crs:ColorGradeBlending>
+ <XMP-crs:ColorGradeGlobalHue>0</XMP-crs:ColorGradeGlobalHue>
+ <XMP-crs:ColorGradeGlobalLum>0</XMP-crs:ColorGradeGlobalLum>
+ <XMP-crs:ColorGradeGlobalSat>0</XMP-crs:ColorGradeGlobalSat>
+ <XMP-crs:ColorGradeHighlightLum>0</XMP-crs:ColorGradeHighlightLum>
+ <XMP-crs:ColorGradeMidtoneHue>0</XMP-crs:ColorGradeMidtoneHue>
+ <XMP-crs:ColorGradeMidtoneLum>0</XMP-crs:ColorGradeMidtoneLum>
+ <XMP-crs:ColorGradeMidtoneSat>0</XMP-crs:ColorGradeMidtoneSat>
+ <XMP-crs:ColorGradeShadowLum>0</XMP-crs:ColorGradeShadowLum>
+ <XMP-crs:ColorNoiseReduction>25</XMP-crs:ColorNoiseReduction>
+ <XMP-crs:ColorNoiseReductionDetail>50</XMP-crs:ColorNoiseReductionDetail>
+ <XMP-crs:ColorNoiseReductionSmoothness>50</XMP-crs:ColorNoiseReductionSmoothness>
+ <XMP-crs:ColorVariance>-50.000000</XMP-crs:ColorVariance>
+ <XMP-crs:Contrast2012>0</XMP-crs:Contrast2012>
+ <XMP-crs:ConvertToGrayscale>False</XMP-crs:ConvertToGrayscale>
+ <XMP-crs:CropAngle>0</XMP-crs:CropAngle>
+ <XMP-crs:CropBottom>1</XMP-crs:CropBottom>
+ <XMP-crs:CropConstrainToUnitSquare>1</XMP-crs:CropConstrainToUnitSquare>
+ <XMP-crs:CropConstrainToWarp>0</XMP-crs:CropConstrainToWarp>
+ <XMP-crs:CropLeft>0</XMP-crs:CropLeft>
+ <XMP-crs:CropRight>0.969285</XMP-crs:CropRight>
+ <XMP-crs:CropTop>0.132099</XMP-crs:CropTop>
+ <XMP-crs:DefringeGreenAmount>0</XMP-crs:DefringeGreenAmount>
+ <XMP-crs:DefringeGreenHueHi>60</XMP-crs:DefringeGreenHueHi>
+ <XMP-crs:DefringeGreenHueLo>40</XMP-crs:DefringeGreenHueLo>
+ <XMP-crs:DefringePurpleAmount>0</XMP-crs:DefringePurpleAmount>
+ <XMP-crs:DefringePurpleHueHi>70</XMP-crs:DefringePurpleHueHi>
+ <XMP-crs:DefringePurpleHueLo>30</XMP-crs:DefringePurpleHueLo>
+ <XMP-crs:Dehaze>0</XMP-crs:Dehaze>
+ <XMP-crs:Exposure2012>0.00</XMP-crs:Exposure2012>
+ <XMP-crs:GrainAmount>0</XMP-crs:GrainAmount>
+ <XMP-crs:GreenHue>0</XMP-crs:GreenHue>
+ <XMP-crs:GreenSaturation>0</XMP-crs:GreenSaturation>
+ <XMP-crs:HDREditMode>0</XMP-crs:HDREditMode>
+ <XMP-crs:HasCrop>True</XMP-crs:HasCrop>
+ <XMP-crs:HasSettings>True</XMP-crs:HasSettings>
+ <XMP-crs:Highlights2012>0</XMP-crs:Highlights2012>
+ <XMP-crs:HueAdjustmentAqua>0</XMP-crs:HueAdjustmentAqua>
+ <XMP-crs:HueAdjustmentBlue>0</XMP-crs:HueAdjustmentBlue>
+ <XMP-crs:HueAdjustmentGreen>0</XMP-crs:HueAdjustmentGreen>
+ <XMP-crs:HueAdjustmentMagenta>0</XMP-crs:HueAdjustmentMagenta>
+ <XMP-crs:HueAdjustmentOrange>0</XMP-crs:HueAdjustmentOrange>
+ <XMP-crs:HueAdjustmentPurple>0</XMP-crs:HueAdjustmentPurple>
+ <XMP-crs:HueAdjustmentRed>0</XMP-crs:HueAdjustmentRed>
+ <XMP-crs:HueAdjustmentYellow>0</XMP-crs:HueAdjustmentYellow>
+ <XMP-crs:LensManualDistortionAmount>0</XMP-crs:LensManualDistortionAmount>
+ <XMP-crs:LensProfileEnable>0</XMP-crs:LensProfileEnable>
+ <XMP-crs:LuminanceAdjustmentAqua>0</XMP-crs:LuminanceAdjustmentAqua>
+ <XMP-crs:LuminanceAdjustmentBlue>0</XMP-crs:LuminanceAdjustmentBlue>
+ <XMP-crs:LuminanceAdjustmentGreen>0</XMP-crs:LuminanceAdjustmentGreen>
+ <XMP-crs:LuminanceAdjustmentMagenta>0</XMP-crs:LuminanceAdjustmentMagenta>
+ <XMP-crs:LuminanceAdjustmentOrange>0</XMP-crs:LuminanceAdjustmentOrange>
+ <XMP-crs:LuminanceAdjustmentPurple>0</XMP-crs:LuminanceAdjustmentPurple>
+ <XMP-crs:LuminanceAdjustmentRed>0</XMP-crs:LuminanceAdjustmentRed>
+ <XMP-crs:LuminanceAdjustmentYellow>0</XMP-crs:LuminanceAdjustmentYellow>
+ <XMP-crs:LuminanceSmoothing>0</XMP-crs:LuminanceSmoothing>
+ <XMP-crs:OverrideLookVignette>False</XMP-crs:OverrideLookVignette>
+ <XMP-crs:ParametricDarks>0</XMP-crs:ParametricDarks>
+ <XMP-crs:ParametricHighlightSplit>75</XMP-crs:ParametricHighlightSplit>
+ <XMP-crs:ParametricHighlights>0</XMP-crs:ParametricHighlights>
+ <XMP-crs:ParametricLights>0</XMP-crs:ParametricLights>
+ <XMP-crs:ParametricMidtoneSplit>50</XMP-crs:ParametricMidtoneSplit>
+ <XMP-crs:ParametricShadowSplit>25</XMP-crs:ParametricShadowSplit>
+ <XMP-crs:ParametricShadows>0</XMP-crs:ParametricShadows>
+ <XMP-crs:PerspectiveAspect>0</XMP-crs:PerspectiveAspect>
+ <XMP-crs:PerspectiveHorizontal>0</XMP-crs:PerspectiveHorizontal>
+ <XMP-crs:PerspectiveRotate>0.0</XMP-crs:PerspectiveRotate>
+ <XMP-crs:PerspectiveScale>100</XMP-crs:PerspectiveScale>
+ <XMP-crs:PerspectiveUpright>Off</XMP-crs:PerspectiveUpright>
+ <XMP-crs:PerspectiveVertical>0</XMP-crs:PerspectiveVertical>
+ <XMP-crs:PerspectiveX>0.00</XMP-crs:PerspectiveX>
+ <XMP-crs:PerspectiveY>0.00</XMP-crs:PerspectiveY>
+ <XMP-crs:PointColors>-1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000, -1.000000</XMP-crs:PointColors>
+ <XMP-crs:PostCropVignetteAmount>0</XMP-crs:PostCropVignetteAmount>
+ <XMP-crs:ProcessVersion>15.4</XMP-crs:ProcessVersion>
+ <XMP-crs:RedHue>0</XMP-crs:RedHue>
+ <XMP-crs:RedSaturation>0</XMP-crs:RedSaturation>
+ <XMP-crs:Saturation>0</XMP-crs:Saturation>
+ <XMP-crs:SaturationAdjustmentAqua>0</XMP-crs:SaturationAdjustmentAqua>
+ <XMP-crs:SaturationAdjustmentBlue>0</XMP-crs:SaturationAdjustmentBlue>
+ <XMP-crs:SaturationAdjustmentGreen>0</XMP-crs:SaturationAdjustmentGreen>
+ <XMP-crs:SaturationAdjustmentMagenta>0</XMP-crs:SaturationAdjustmentMagenta>
+ <XMP-crs:SaturationAdjustmentOrange>0</XMP-crs:SaturationAdjustmentOrange>
+ <XMP-crs:SaturationAdjustmentPurple>0</XMP-crs:SaturationAdjustmentPurple>
+ <XMP-crs:SaturationAdjustmentRed>0</XMP-crs:SaturationAdjustmentRed>
+ <XMP-crs:SaturationAdjustmentYellow>0</XMP-crs:SaturationAdjustmentYellow>
+ <XMP-crs:ShadowTint>0</XMP-crs:ShadowTint>
+ <XMP-crs:Shadows2012>0</XMP-crs:Shadows2012>
+ <XMP-crs:SharpenDetail>25</XMP-crs:SharpenDetail>
+ <XMP-crs:SharpenEdgeMasking>0</XMP-crs:SharpenEdgeMasking>
+ <XMP-crs:SharpenRadius>+1.0</XMP-crs:SharpenRadius>
+ <XMP-crs:Sharpness>40</XMP-crs:Sharpness>
+ <XMP-crs:SplitToningBalance>0</XMP-crs:SplitToningBalance>
+ <XMP-crs:SplitToningHighlightHue>0</XMP-crs:SplitToningHighlightHue>
+ <XMP-crs:SplitToningHighlightSaturation>0</XMP-crs:SplitToningHighlightSaturation>
+ <XMP-crs:SplitToningShadowHue>0</XMP-crs:SplitToningShadowHue>
+ <XMP-crs:SplitToningShadowSaturation>0</XMP-crs:SplitToningShadowSaturation>
+ <XMP-crs:ColorTemperature>4750</XMP-crs:ColorTemperature>
+ <XMP-crs:Texture>0</XMP-crs:Texture>
+ <XMP-crs:Tint>-3</XMP-crs:Tint>
+ <XMP-crs:ToneCurveName2012>Linear</XMP-crs:ToneCurveName2012>
+ <XMP-crs:ToneCurvePV2012>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012>
+ <XMP-crs:ToneCurvePV2012Blue>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Blue>
+ <XMP-crs:ToneCurvePV2012Green>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Green>
+ <XMP-crs:ToneCurvePV2012Red>
+  <rdf:Bag>
+   <rdf:li>0, 0</rdf:li>
+   <rdf:li>255, 255</rdf:li>
+  </rdf:Bag>
+ </XMP-crs:ToneCurvePV2012Red>
+ <XMP-crs:Version>18.2.2</XMP-crs:Version>
+ <XMP-crs:Vibrance>0</XMP-crs:Vibrance>
+ <XMP-crs:VignetteAmount>0</XMP-crs:VignetteAmount>
+ <XMP-crs:WhiteBalance>As Shot</XMP-crs:WhiteBalance>
+ <XMP-crs:Whites2012>0</XMP-crs:Whites2012>
+ <ICC-header:ProfileCMMType>Apple Computer Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>4.0.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>2015:10:14 13:08:57</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>Apple Computer Inc.</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Perceptual</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Apple Computer Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>e5bb0e9867bd46cd4bbe446ebd1b7598</ICC-header:ProfileID>
+ <ICC_Profile:ProfileDescription>Display P3</ICC_Profile:ProfileDescription>
+ <ICC_Profile:ProfileCopyright>Copyright Apple Inc., 2015</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:MediaWhitePoint>0.95045 1 1.08905</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:RedMatrixColumn>0.51512 0.2412 -0.00105</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.29198 0.69225 0.04189</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.1571 0.06657 0.78407</ICC_Profile:BlueMatrixColumn>
+ <ICC_Profile:RedTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:ChromaticAdaptation>1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168</ICC_Profile:ChromaticAdaptation>
+ <ICC_Profile:BlueTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:GreenTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <Adobe:DCTEncodeVersion>100</Adobe:DCTEncodeVersion>
+ <Adobe:APP14Flags0>(none)</Adobe:APP14Flags0>
+ <Adobe:APP14Flags1>(none)</Adobe:APP14Flags1>
+ <Adobe:ColorTransform>YCbCr</Adobe:ColorTransform>
+ <Composite:Aperture>1.8</Composite:Aperture>
+ <Composite:ImageSize>3571x2544</Composite:ImageSize>
+ <Composite:Megapixels>9.1</Composite:Megapixels>
+ <Composite:ShutterSpeed>1/45</Composite:ShutterSpeed>
+ <Composite:SubSecDateTimeOriginal>2026:04:16 14:09:12.928+02:00</Composite:SubSecDateTimeOriginal>
+ <Composite:GPSDateTime>2026:04:16 12:07:16Z</Composite:GPSDateTime>
+ <Composite:GPSLatitude>59 deg 20&#39; 22.83&quot; N</Composite:GPSLatitude>
+ <Composite:GPSLongitude>17 deg 58&#39; 28.86&quot; E</Composite:GPSLongitude>
+ <Composite:DateTimeCreated>2026:04:16 14:09:12+02:00</Composite:DateTimeCreated>
+ <Composite:FocalLength35efl>5.6 mm</Composite:FocalLength35efl>
+ <Composite:GPSPosition>59 deg 20&#39; 22.83&quot; N, 17 deg 58&#39; 28.86&quot; E</Composite:GPSPosition>
+ <Composite:LightValue>6.2</Composite:LightValue>
+</rdf:Description>
+</rdf:RDF>
