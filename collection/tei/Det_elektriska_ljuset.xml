@@ -2,8 +2,10 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
+ <xmlns="http://www.tei-c.org/ns/1.0"
     xlmns:xi="http://w3.org"> <!-- för att få xml metadata till bilderna inbäddade, osäker! -->
+
+<TEI
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -64,9 +66,9 @@
                     </address>
                     <availability>
                         <licence> <!-- funderar på denna men är lite osäker på om vi har rätt till att använda en CC licens överhuvudtaget: https://creativecommons.org/licenses/by-nc-nd/4.0/ -->
-                            <p>Original broschyren gavs ut 1930 av Svensk Form (f.d. Svenska Slöjdföreningen). 
+                            <p>Originalbroschyren gavs ut 1930 av Svenska föreningen för ljuskultur och ägs av Svensk Form (f.d. Svenska Slöjdföreningen). 
                                 Den sammanställdes av Ivar Folcker och Gunnar Nilsson, med fotografier tagna av Florman och Halldin, Atelje Berghne, Stockholm och tryckt av Kurt Lindberg Boktryckeri AB, Stockholm.
-                                Digitisatet är framställd av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026.
+                                Digitisatet är framställt av Mariana Suikkanen Gomes, Natalie Isaksson och Jannicke Meijner, studenter vid Masterprogrammet i Informations- och biblioteksvetenskap vid Högskolan i Borås, vårterminen 2026.
                                 Digitisatet i form av PDF/A dokument arkiveras och tillgängliggörs av Centrum för Näringslivshistoria, Bromma åt Svensk Form.
                             </p>
                         </licence>
