@@ -97,13 +97,14 @@
                 <footer>
                 <div class="row" id="footer">
                   <div class="col-sm copyright">
-                      <div>
+                      <!-- <div>
                         <a href="https://creativecommons.org/licenses/by/4.0/legalcode">
                           <img src="assets/img/logos/cc.svg" class="copyright_logo" alt="Creative Commons License"/><img src="assets/img/logos/by.svg" class="copyright_logo" alt="Attribution 4.0 International"/>
                         </a>
-                      </div>
+                      </div> -->
                       <div>
-                         2026 Natalie Isaksson, Jannicke Meijner, Mariana Suikkanen Gomes.
+                          &#169; 2026 Mariana Suikkanen Gomes, Natalie Isaksson,
+                          Jannicke Meijner.
                       </div>
                     </div>
                 </div>
