@@ -33,7 +33,7 @@
                 </header>
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> | <a href="transkribering.html"
-                        >Transkribering</a> | <a href="galleri_zoom.html">Galleri</a>
+                        >Transkribering</a> | <a href="galleri_zoom.html">Galleri</a> | <a href="flipbook.html">Bl&#228;dderl&#228;ge</a>
                    
                 </nav>
                 <main id="manuscript">

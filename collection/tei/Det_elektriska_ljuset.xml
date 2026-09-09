@@ -261,8 +261,8 @@
     <facsimile>
         <surface ana="collection/metadata/000_metadata.xml" xml:id="Insida_fram">
             <figure>
-                <label>Insida_fram</label>
-                <figDesc>Insida med karta över utställningsområdet_verso</figDesc>
+                <label>Insida fram</label>
+                <figDesc>Insida med karta över utställningsområdet</figDesc>
                 <graphic xml:id="Insida_fram_full"
                     url="assets/img/documents/000_Insida_fram_beskuren_3004.jpg"/>
             </figure>
@@ -292,7 +292,7 @@
     <facsimile>
         <surface ana="collection/metadata/01_metadata.xml" xml:id="Inledning">
             <figure>
-                <label>1. Inledning till broschyren</label>
+                <label>Sida 1. Inledning till broschyren</label>
                 <figDesc> Avfotografering av inledningen till broschyren, undertecknat SVENSKA
                     FÖRENINGEN FÖR LJUSKULTUR </figDesc>
                 <graphic xml:id="Inledning_full"
@@ -345,7 +345,7 @@
     <facsimile>
         <surface ana="collection/metadata/02_metadata.xml" xml:id="Upphovspersoner">
             <figure>
-                <label>2. Upphovspersoner</label>
+                <label>Sida 2. Upphovspersoner</label>
                 <figDesc>Sida 2 i broschyren</figDesc>
                 <graphic xml:id="Upphovspersoner_full"
                     url="assets/img/documents/02_Upphovspersoner_beskuren_3004.jpg"/>
@@ -376,7 +376,7 @@
     <facsimile>
         <surface ana="collection/metadata/03_metadata.xml" xml:id="Huvudentren">
             <figure>
-                <label>3. Huvudentren</label>
+                <label>Sida 3. Huvudentr&#233;n</label>
                 <figDesc>Sida 3 i broschyren</figDesc>
                 <graphic xml:id="Huvudentren_full"
                     url="assets/img/documents/03_Huvudentren_beskuren_3004.jpg"/>
@@ -410,7 +410,7 @@
     <facsimile>
         <surface ana="collection/metadata/04_metadata.xml" xml:id="Hallen_for_samfardsmedel">
             <figure>
-                <label>4. Hallen för samfärdsmedel</label>
+                <label>Sida 4. Hallen för samfärdsmedel</label>
                 <figDesc>Sida 4 i broschyren</figDesc>
                 <graphic xml:id="Hallen_for_samfardsmedel_full"
                     url="assets/img/documents/04_Hallen_for_samfardsmedel_beskuren_3004.jpg"/>
@@ -441,7 +441,7 @@
     <facsimile>
         <surface ana="collection/metadata/05_metadata.xml" xml:id="Pressens_paviljong">
             <figure>
-                <label>5. Pressens paviljong</label>
+                <label>Sida 5. Pressens paviljong</label>
                 <figDesc>sida 5 i broschyren</figDesc>
                 <graphic xml:id="Pressens_paviljong_full"
                     url="assets/img/documents/05_Pressens_paviljong_beskuren_3004.jpg"/>
@@ -473,7 +473,7 @@
     <facsimile>
         <surface ana="collection/metadata/06_metadata.xml" xml:id="Planetariet">
             <figure>
-                <label>6. Planetariet</label>
+                <label>Sida 6. Planetariet</label>
                 <figDesc>>Sida 6 i broschyren</figDesc>
                 <graphic xml:id="Planetariet_full"
                     url="assets/img/documents/06_Planetarietbeskuren_0505.jpg"/>
@@ -506,7 +506,7 @@
     <facsimile>
         <surface ana="collection/metadata/07_metadata.xml" xml:id="Butikerna">
             <figure>
-                <label>7. Butikerna</label>
+                <label>Sida 7. Butikerna</label>
                 <figDesc>Sida 7 i broschyren</figDesc>
                 <graphic xml:id="Butikerna_full" url="assets/img/documents/07_Butikerna_NY.jpg"/>
             </figure>
@@ -538,7 +538,7 @@
     <facsimile>
         <surface ana="collection/metadata/08_metadata.xml" xml:id="Armaturhallen">
             <figure>
-                <label>8. Armaturhallen</label>
+                <label>Sida 8. Armaturhallen</label>
                 <figDesc>Sida 8 i broschyren</figDesc>
                 <graphic xml:id="Armaturhallen_full"
                     url="assets/img/documents/08_Armaturhallen_beskuren_0505.jpg"/>
@@ -571,7 +571,7 @@
     <facsimile>
         <surface ana="collection/metadata/09_metadata.xml" xml:id="musikpaviljongens">
             <figure>
-                <label>9. Musikpaviljongen</label>
+                <label>Sida 9. Musikpaviljongen</label>
                 <figDesc>Sida 9 i broschyren</figDesc>
                 <graphic xml:id="musikpaviljongens_full"
                     url="assets//img/documents/09_musikpaviljongens_beskuren_0505.jpg"/>
@@ -607,7 +607,7 @@
     <facsimile>
         <surface ana="collection/metadata/10_metadata.xml" xml:id="skyltfonstren">
             <figure>
-                <label>10. Skyltfönstren</label>
+                <label>Sida 10. Skyltfönstren</label>
                 <figDesc>Sida 10 i broschyren</figDesc>
                 <graphic xml:id="skyltfonstren_full"
                     url="assets/img/documents/10_skyltfonstren_beskuren_0505.jpg"/>
@@ -638,7 +638,7 @@
     <facsimile>
         <surface ana="collection/metadata/11_metadata.xml" xml:id="svenskadagbladets">
             <figure>
-                <label>11. Svenska Dagbladets terass</label>
+                <label>Sida 11. Svenska Dagbladets terass</label>
                 <figDesc>Sida 11 i broschyren</figDesc>
                 <graphic xml:id="svenskadagbladets_full"
                     url="assets/img/documents/11_Svenska_Dagbladet_NY.jpg"/>
@@ -669,7 +669,7 @@
     <facsimile>
         <surface ana="collection/metadata/12_metadata.xml" xml:id="i_huvudrestauranten">
             <figure>
-                <label>12. Huvudrestauranten</label>
+                <label>Sida 12. Huvudrestauranten</label>
                 <figDesc>Sida 12 i broschyren</figDesc>
                 <graphic xml:id="i_huvudrestauranten_full"
                     url="assets/img/documents/12_i_huvudrestauranten_beskuren_0505.jpg"/>
@@ -702,7 +702,7 @@
     <facsimile>
         <surface ana="collection/metadata/13_metadata.xml" xml:id="utstallningshallarnas">
             <figure>
-                <label>13. Utställningshallarna</label>
+                <label>Sida 13. Utställningshallarna</label>
                 <figDesc>Sida 13 i broschyren</figDesc>
                 <graphic xml:id="utstallningshallarnas_full"
                     url="assets/img/documents/13_Utstallningshallarnas_NY.jpg"/>
@@ -733,7 +733,7 @@
     <facsimile>
         <surface ana="collection/metadata/14_metadata.xml" xml:id="kandelabrar_betongstolpar">
             <figure>
-                <label>14. Kandelabrar och betongstolpar</label>
+                <label>Sida 14. Kandelabrar och betongstolpar</label>
                 <figDesc>Sida 14 i broschyren</figDesc>
                 <graphic xml:id="kandelabrar_betongstolpar_full"
                     url="assets/img/documents/14_kandelabrar_betongstolpar_beskuren_0505.jpg"/>
@@ -768,7 +768,7 @@
     <facsimile>
         <surface ana="collection/metadata/15_metadata.xml" xml:id="parkbelysning">
             <figure>
-                <label>15. Parkbelysning</label>
+                <label>Sida 15. Parkbelysning</label>
                 <figDesc>Sida 15 i broschyren</figDesc>
                 <graphic xml:id="parkbelysning_full"
                     url="assets/img/documents/15_parkbelysning_beskuren_0505.jpg"/>
@@ -799,7 +799,7 @@
     <facsimile>
         <surface ana="collection/metadata/16_metadata.xml" xml:id="Folkrestauranten">
             <figure>
-                <label>16. Folkrestauranten</label>
+                <label>Sida 16. Folkrestauranten</label>
                 <figDesc>Sida 16 i broschyren</figDesc>
                 <graphic xml:id="Folkrestauranten_full"
                     url="assets/img/documents/16_Folkrestauranten_beskuren_0505.jpg"/>
@@ -829,7 +829,7 @@
     <facsimile>
         <surface ana="collection/metadata/17_metadata.xml" xml:id="Vattenfallet">
             <figure>
-                <label>17. Vattenfallet</label>
+                <label>Sida 17. Vattenfallet</label>
                 <figDesc>Sida 17 i broschyren</figDesc>
                 <graphic xml:id="Vattenfallet_full"
                     url="assets/img/documents/17_Vattenfallet_beskuren_0505.jpg"/>
@@ -859,7 +859,7 @@
     <facsimile>
         <surface ana="collection/metadata/18_metadata.xml" xml:id="vid_strandpromenaden">
             <figure>
-                <label>18. Vid strandpromenaden</label>
+                <label>Sida 18. Vid strandpromenaden</label>
                 <figDesc>Sida 18 i broschyren</figDesc>
                 <graphic xml:id="vid_strandpromenaden_full"
                     url="assets/img/documents/18_vid_strandpromenaden_beskuren_0505.jpg"/>
@@ -889,7 +889,7 @@
     <facsimile>
         <surface ana="collection/metadata/19_metadata.xml" xml:id="Pa_sodra_sidan">
             <figure>
-                <label>19. På södra sidan</label>
+                <label>Sida 19. På södra sidan</label>
                 <figDesc>Sida 19 i broschyren</figDesc>
                 <graphic xml:id="Pa_sodra_sidan_full"
                     url="assets/img/documents/19_Pa_sodra_sidan_NY.jpg"/>
@@ -922,7 +922,7 @@
     <facsimile>
         <surface ana="collection/metadata/20_metadata.xml" xml:id="Mazettis_butik">
             <figure>
-                <label>20. Mazettis butik</label>
+                <label>Sida 20. Mazettis butik</label>
                 <figDesc>Sida 20 i broschyren</figDesc>
                 <graphic xml:id="Mazettis_butik_full"
                     url="assets/img/documents/20_Mazettis_butik_beskuren_0505.jpg"/>
@@ -956,7 +956,7 @@
     <facsimile>
         <surface ana="collection/metadata/21_metadata.xml" xml:id="Parkrestauranten">
             <figure>
-                <label>21. Parkrestauranten</label>
+                <label>Sida 21. Parkrestauranten</label>
                 <figDesc>Sida 21 i broschyren</figDesc>
                 <graphic xml:id="Parkrestauranten_full"
                     url="assets/img/documents/21_Parkrestauranten_beskuren_0505.jpg"/>
@@ -988,7 +988,7 @@
     <facsimile>
         <surface ana="collection/metadata/22_metadata.xml" xml:id="Djurgardsbrunnsviken">
             <figure>
-                <label>22. Djurgårdsbrunnsviken</label>
+                <label>Sida 22. Djurgårdsbrunnsviken</label>
                 <figDesc>Sida 22 i broschyren</figDesc>
                 <graphic xml:id="Djurgardsbrunnsviken_full"
                     url="assets/img/documents/22_Djurgardsbrunnsviken_beskuren_0505.jpg"/>
@@ -1017,7 +1017,7 @@
     <facsimile>
         <surface ana="collection/metadata/23_metadata.xml" xml:id="Reklammasten">
             <figure>
-                <label>23. Reklammasten</label>
+                <label>Sida 23. Reklammasten</label>
                 <figDesc>Sida 23 i broschyren</figDesc>
                 <graphic xml:id="Reklammasten_full"
                     url="assets/img/documents/23_Reklammasten_beskuren_0505.jpg"/>
@@ -1068,7 +1068,7 @@
     <facsimile>
         <surface ana="collection/metadata/24_metadata.xml" xml:id="Sammanfattning">
             <figure>
-                <label>24. Sammanfattning</label>
+                <label>Sida 24. Sammanfattning</label>
                 <figDesc>Sida 24 i broschyren</figDesc>
                 <graphic xml:id="Sammanfattning_full"
                     url="assets/img/documents/24_Sammanfattning_beskuren_0505.jpg"/>
@@ -1121,8 +1121,8 @@
     <facsimile>
         <surface ana="collection/metadata/25_metadata.xml" xml:id="Insida_bakre">
             <figure>
-                <label>Insida_bakre</label>
-                <figDesc>Insida med karta över utställningsområdet_recto</figDesc>
+                <label>Insida bakre</label>
+                <figDesc>Insida med karta över utställningsområdet</figDesc>
                 <graphic xml:id="Insida_bakre_full"
                     url="assets/img/documents/25_Insida_bakre_beskuren_0505.jpg"/>
             </figure>

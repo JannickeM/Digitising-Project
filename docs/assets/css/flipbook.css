@@ -1,0 +1,124 @@
+/* flipbook style */
+body {
+	padding: 1vw;
+	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
+	line-height: 1.25;
+	font-size: 1vw;
+  width: 100%;
+	}
+	
+h1, h2, h3, nav, footer {
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 1vw;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 1vw;
+}
+
+h2 {
+    padding: 1vw;
+}
+
+h3 {
+    font-weight: bold;
+    padding: 1vw;
+    
+}
+
+h4 {
+    font-style: italic;
+    font-size: smaller;
+}
+
+#details {
+    padding: 2vw;
+    margin: 1vw;
+    text-align: center;    
+}
+
+footer {
+    border-top: 1px solid black;
+    padding-top: 1vw;
+    margin-top: 1vw;
+}
+
+.copyright {
+    width: 50%;
+    margin: auto;
+}
+
+.copyright_logos, .copyright_text {
+    display: inline;
+}
+
+.copyright_logo {
+		width: 1vw;
+		margin:.15vw;
+	}
+
+
+/* Center the viewer and container */
+          #gallery-container {
+            width: 50%;
+            /* max-width: 600px; */
+            margin: 40px auto;
+            text-align: center;
+          }
+          /* Hide all image frames by default */
+          .page {
+            display: none;
+            text-align:center;
+            border: 1px solid #ddd;
+            padding: 10px;
+            background: #f9f9f9;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+          }
+   /* Only display the active frame */
+          .page.active {
+            display: block;
+          }
+          /* Ensure images scale perfectly inside the container */
+          .page img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+          }
+          .controls {
+            margin-top: 20px;
+          }
+                    button {
+            padding: 10px 25px;
+            margin: 0 10px;
+            font-size: 16px;
+            cursor: pointer;
+          }
+          button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+          }
+          
+          /* Center and space out the text underneath the image */
+.image-caption {
+    margin-top: 15px;
+    padding: 10px;
+    background: #fdfdfd;
+    border-top: 1px dashed #ddd;
+    text-align: center;
+}
+
+.image-caption h4 {
+    margin: 0 0 5px 0;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.image-caption p {
+    margin: 0;
+    color: #666;
+    font-size: 0.95em;
+    font-style: italic;
+}
