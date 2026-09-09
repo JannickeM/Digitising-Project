@@ -48,7 +48,7 @@
                                 . <br /><br />
                                 Stockholmsutställningen 1930 var en nationell utställning för arkitektur, formgivning och konsthantverk. Den kom att räknas som genombrottet för funktionalismen och modernismen i Sverige, och var en stor publiksuccé. Utställningen gav möjlighet för den svenska belysningsbranschen att visa upp den senaste utvecklingen inom teknik och design, vilket exempelvis innebar ett genombrott  för neonskyltning i Sverige. Belysningen, speciellt nattetid, var en viktig del av utställningsupplevelsen och väckte mycket uppmärksamhet. Civilingenjören som arbetade med belysningen, Ivar Folcker, anses vara en av pionjärerna inom ljusarkitektur i Sverige. Broschyren som digitaliserats innehåller en handskriven dedikation från Folcker till Stockholmsutställningens generalkommisarie, Gregor Paulsson.
                                 
-                                <br /><br /> Projektet har utförts av tre studenter från masterprogrammet i Biblioteks- och informationsvetenskap, Natalie Isaksson, Jannicke Meijner, och Mariana Suikkanen Gomes, våren 2026. 
+                                <br /><br /> Projektet har utförts av tre studenter från masterprogrammet i Biblioteks- och informationsvetenskap, Natalie Isaksson, Jannicke Meijner, och Mariana Suikkanen Gomes, våren 2026. På vår <a href="https://github.com/JannickeM/Digitising-Project/tree/main">GitHub</a> går det att ta del av strukturerad metadata.
                             </div> 
                         </div>
                     </div>
